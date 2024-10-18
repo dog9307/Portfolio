@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3095664863533744122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3095664863533744123}
+  - component: {fileID: 3095664863533744116}
+  m_Layer: 0
+  m_Name: KeyManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3095664863533744123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3095664863533744122}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3095664863533744116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3095664863533744122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ace9108279fc1d44aad33ffd15752de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _keys:
+    m_keys:
+    - left
+    - right
+    - up
+    - down
+    - attack_change_1
+    - attack_change_2
+    - attack_change_3
+    - attack_change_4
+    - menu
+    - attack_left
+    - attack_right
+    - TalkTo
+    - skill_use
+    - skill_rot_left
+    - skill_rot_right
+    - tabUI
+    - dialogue
+    - skip
+    - scene_skip
+    - quest_toggle
+    - ui_page_left
+    - ui_page_right
+    - dash
+    - qte_active
+    m_values:
+    - _key: 97
+      enabled: 1
+      _overrides: 
+    - _key: 100
+      enabled: 1
+      _overrides: 
+    - _key: 119
+      enabled: 1
+      _overrides: 
+    - _key: 115
+      enabled: 1
+      _overrides: 
+    - _key: 49
+      enabled: 1
+      _overrides: 
+    - _key: 50
+      enabled: 1
+      _overrides: 
+    - _key: 51
+      enabled: 1
+      _overrides: 
+    - _key: 52
+      enabled: 1
+      _overrides: 
+    - _key: 27
+      enabled: 1
+      _overrides: 
+    - _key: 323
+      enabled: 1
+      _overrides: 
+    - _key: 324
+      enabled: 0
+      _overrides: 
+    - _key: 102
+      enabled: 1
+      _overrides: 
+    - _key: 324
+      enabled: 1
+      _overrides: 
+    - _key: 113
+      enabled: 1
+      _overrides: 
+    - _key: 101
+      enabled: 1
+      _overrides: 
+    - _key: 9
+      enabled: 1
+      _overrides: 
+    - _key: 102
+      enabled: 1
+      _overrides: 2000000043010000
+    - _key: 32
+      enabled: 1
+      _overrides: 4301000066000000
+    - _key: 27
+      enabled: 1
+      _overrides: 
+    - _key: 116
+      enabled: 0
+      _overrides: 
+    - _key: 113
+      enabled: 1
+      _overrides: 
+    - _key: 101
+      enabled: 1
+      _overrides: 
+    - _key: 32
+      enabled: 1
+      _overrides: 
+    - _key: 102
+      enabled: 1
+      _overrides: 
+  _isEnable: 0

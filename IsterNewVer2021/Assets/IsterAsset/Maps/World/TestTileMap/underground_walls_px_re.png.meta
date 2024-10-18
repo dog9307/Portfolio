@@ -1,0 +1,2521 @@
+fileFormatVersion: 2
+guid: b11085bec0825774ba673d7cd071ba15
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: underground_walls_px_re_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3eddb7f5b2ba0439471d955023ea0b
+      internalID: 1792163661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d14da40d7c2484da356f14c718d170
+      internalID: -1549825326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa24d426a2bbef4da24be2cfc3d0d7e
+      internalID: -1200958276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71b5fd6e149404ba1a967fc02c50fb
+      internalID: -1922603139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d68227666fba3b4bb255e91861c0f18
+      internalID: -2030699919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31577f933c8d64444ad30264104f512b
+      internalID: 1078041217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4846faf6a52914a8abbddd9fca9671
+      internalID: 1245759478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d52e98d9e9d1b4098cb179bdf8daa9
+      internalID: 751019670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8b0fb4aecbbf4c81eddfdff7d57ba
+      internalID: 1243841780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9cd39fd9b74ba4eba74d24840fc3c7
+      internalID: 2024758709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20899144103768469474349c1edc6b1
+      internalID: -1235975681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e93ffa249826747b267b6803724296
+      internalID: -1308002905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950f70184b17d645942047f0d8c98b8
+      internalID: -421282715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2af4930c018040bf452d52b03a8a5
+      internalID: -1126047747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 461
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb887a655155448bf704f686c02cd0
+      internalID: -768451488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee9c32efe911442a12109ae9842197
+      internalID: 211910900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d732831b8f2ffa4ca523c82d0fd5e1b
+      internalID: -1607652947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c8eccd63995848b6240292a5f89b1
+      internalID: 272886289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbcd0da0506b1940ba34c44fde01d4f
+      internalID: 855087804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde5b3169ac1964d8a69a142d81bbee
+      internalID: -1664883768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_20
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee71b99e4699ef74fbb469b115dc9393
+      internalID: 1770449440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab13da3a2aff4c45bfef60e8761c11e
+      internalID: 1079873272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c52e03765fd7aa40804efdad6334acd
+      internalID: 705979190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97976183068fd7c4dbddfec88ba80ccf
+      internalID: 158960564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5c83622bbe61d418c3774351468601
+      internalID: -308478478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c150d9ddb8944e4d8441c09a685ee6c
+      internalID: 760678393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_26
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020c31d5901eb4a4da810e7ce37bd516
+      internalID: -1110104986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f950e4846e8e4085b787f0e997646
+      internalID: -955550707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 429
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71cf3f3d0fe074e8bc023ffe0b2148
+      internalID: -1904719564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36895f54692891a458ac3b4f3af3e04c
+      internalID: 2144834139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fe971f6a0de14f90ae95037855f65
+      internalID: 1129938766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ccebe871418e140ad3d97b976c9dfe
+      internalID: 1853821515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf5a4800b54eb1479ade97a6abdeadf
+      internalID: 1621986391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f224a4ffc24f2e24a904460644017835
+      internalID: -963522559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b78385e5b4b24f90263c1f0e79c9f
+      internalID: 1630197493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdaec4623248ea4f86bfdc1a4bddc26
+      internalID: 1636324246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcac05ed8aa09bc4985a922b1f6d4c45
+      internalID: 1649135493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_37
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413917ae8d9546f4da74752ce1c63243
+      internalID: -981125357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d292aabd5fd1c45aeaf47a531503be
+      internalID: 747522558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3b0b1abd49ff94782e8aa3857ab822
+      internalID: -1824861852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_40
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464df7d35d8d3a14db1c4cddd6c699ee
+      internalID: -192552099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_41
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d2bb7cf11e21499de85471fcd4e05
+      internalID: 133549558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_42
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 397
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799ced417907674684555d71d5fa145
+      internalID: -1041549360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4ef059912eb744b9ac6992b3bb7c3
+      internalID: 401996895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79875f4358c93d4f957fa335f99a70e
+      internalID: 2058645958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3786713f37b5240927d2ac285f5d2a
+      internalID: 1342457216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fca21ba259fe904aad27f59ba256bbe
+      internalID: 1938984111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28abd924eb6dd8048ba4c624155122d8
+      internalID: 1911995437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeb170e5577ce34f9abfce399ab9ee2
+      internalID: -116319228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfe717d0138bca4189ffa51309fdf36
+      internalID: 1003510678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314c0b13c55450a449ea5d44df9e6bb9
+      internalID: 575310466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_51
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b496a41087e154f9aff553ed2e42bd
+      internalID: 1560813829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f3d6c8d2669ec4e927de06984cdc7b
+      internalID: 1268855810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf6b9f93a613144a6f9fed64e5d00e
+      internalID: -1756646829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_54
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d01ed3524317df43a9d7f2bfd7c867e
+      internalID: 2063257627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_55
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec68a79b9521124ea0c3a967ef9890e
+      internalID: -1453597763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26099930c111ba14cbfd68b41a07499b
+      internalID: 1164821579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4dc8da78f75b439239e37fd7516ca
+      internalID: -895742259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a138a355bb3c4492fb046d4516f84
+      internalID: -127707434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14f982b476a5b446a58af113b6e4ab1
+      internalID: 1977128271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 333
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4e1e98b3e074449a58af899793630
+      internalID: -1759220297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224a2f11117fa34eb3bb01795975529
+      internalID: -840756808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b6d2047c918c47818e16828156e26
+      internalID: 171644655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_63
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ac4cb2a1f51c4089921f473ffa55f
+      internalID: -141387222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711dcfbfddf0fd49b178b0511f6110a
+      internalID: -1201695182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a833239f73b54d9ffe1e3d36fedc9
+      internalID: 697012546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_66
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ad9ff59065c94c878065fdd671921
+      internalID: 1244640687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9696bc541fca42960514a110eddea
+      internalID: -361345339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f1bcad5699ab54daee73794ff6bd75
+      internalID: 2013239494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d00566d2fdc94b91846edfd3e464c
+      internalID: -759417180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557960a036df5f24383801f8da61ea58
+      internalID: -1190368552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_71
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d526bf9ae9b95f43b81d8086b7fef1b
+      internalID: -1355947504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536dc1b5ede5c24faaa5e5be0b5af27
+      internalID: 327502790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012925a992dc91546a6fc335e06ddf8e
+      internalID: 143356969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099919ce399a284bb709d65f4e43852
+      internalID: 283388420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9601519a143f84a92cabe0d15efdf8
+      internalID: 240692868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_76
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5811abe340b31489324f856a667547
+      internalID: 1798511351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007bb9a65e02926418b0a1e66b92cd1f
+      internalID: -877964138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_78
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8496fef73a3f14b974267e5d1912cf
+      internalID: 333942708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_79
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839ad1972157fa448991f748d3404f9
+      internalID: -130157949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b56e0ed1506948a98cff1f3afff16
+      internalID: 482446851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_81
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750a6e3192759e4e9e99661049800c6
+      internalID: -560828506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a53dcef94185949aef6da47212f93e
+      internalID: 1722923236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae7cff4deb4884d811ee85b3ada2f3
+      internalID: -213893675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_84
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd300b5c669096342bdf8d0c7c0f7388
+      internalID: -393031956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf5180670ea3c479b99b5f661ee21e
+      internalID: -1462756231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12164edbabad48b4d93360ac75b4cee7
+      internalID: 2019538537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928368be49b4ef42a399dd8f572cfa8
+      internalID: -155234091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a4f83b0427d74c9d9d62ce4b269f5
+      internalID: 2126640727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_89
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 109
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240bf2eae83d9df48b17d36ac5e2fde1
+      internalID: 800945680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 109
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e51b367403d9394995ae04e9c5d42b0
+      internalID: -1246324356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 109
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9223091ca22ac34e9016d200dabb40f
+      internalID: -683656554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 109
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72310b0f3b8302645a23790231b0bf85
+      internalID: -1161367878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_93
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 109
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd2543b2024ca42a9b0944a6bd41c5
+      internalID: 2133039563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_94
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e6c47df6ea0448b87e297b85de4ad
+      internalID: -1594294191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_95
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810832621836ba447b5830a73dbd0507
+      internalID: -68988935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_96
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a70fe7c9ab6d4ebcb010754964dbd
+      internalID: 478055519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_97
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b223c942e580624e9dce77b29d7bad2
+      internalID: -654854802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609fead0d0392b647a9f13e67ddd1dce
+      internalID: 212587927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_99
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205e38405df15a94ab04aa440eaf01fb
+      internalID: 1724408837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_100
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd98d5cdc84884db14e63318fae84f
+      internalID: -1523600884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3393ab3029bc7eb4695cae5f94ae8ae7
+      internalID: -1196201182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2714388e0f777c94fbccac0955e92f5d
+      internalID: -698696644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_103
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ed8a0d55694048bf6d79a80a72337
+      internalID: 975882134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_104
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838ae0eac5b27334f957afc53d0df34a
+      internalID: 1177991804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_105
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa01a5ae77b31e4a8d3d32ed6ce1c0c
+      internalID: 1296641614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c57596e8c41624ea35c0395cb3bf91
+      internalID: -404219100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_107
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9495629cefe534d8856790cd19ec82
+      internalID: -1275884448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underground_walls_px_re_108
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 13
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386c5fa58a8503343b000ef82b360cb6
+      internalID: 1114106882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      underground_walls_px_re_19: -1664883768
+      underground_walls_px_re_50: 575310466
+      underground_walls_px_re_65: 697012546
+      underground_walls_px_re_40: -192552099
+      underground_walls_px_re_22: 705979190
+      underground_walls_px_re_82: 1722923236
+      underground_walls_px_re_59: 1977128271
+      underground_walls_px_re_69: -759417180
+      underground_walls_px_re_86: 2019538537
+      underground_walls_px_re_58: -127707434
+      underground_walls_px_re_104: 1177991804
+      underground_walls_px_re_98: 212587927
+      underground_walls_px_re_13: -1126047747
+      underground_walls_px_re_54: 2063257627
+      underground_walls_px_re_0: 1792163661
+      underground_walls_px_re_38: 747522558
+      underground_walls_px_re_26: -1110104986
+      underground_walls_px_re_24: -308478478
+      underground_walls_px_re_29: 2144834139
+      underground_walls_px_re_60: -1759220297
+      underground_walls_px_re_89: 800945680
+      underground_walls_px_re_48: -116319228
+      underground_walls_px_re_99: 1724408837
+      underground_walls_px_re_23: 158960564
+      underground_walls_px_re_27: -955550707
+      underground_walls_px_re_62: 171644655
+      underground_walls_px_re_73: 143356969
+      underground_walls_px_re_37: -981125357
+      underground_walls_px_re_63: -141387222
+      underground_walls_px_re_83: -213893675
+      underground_walls_px_re_8: 1243841780
+      underground_walls_px_re_100: -1523600884
+      underground_walls_px_re_68: 2013239494
+      underground_walls_px_re_34: 1630197493
+      underground_walls_px_re_79: -130157949
+      underground_walls_px_re_102: -698696644
+      underground_walls_px_re_72: 327502790
+      underground_walls_px_re_75: 240692868
+      underground_walls_px_re_36: 1649135493
+      underground_walls_px_re_108: 1114106882
+      underground_walls_px_re_81: -560828506
+      underground_walls_px_re_31: 1853821515
+      underground_walls_px_re_92: -1161367878
+      underground_walls_px_re_107: -1275884448
+      underground_walls_px_re_67: -361345339
+      underground_walls_px_re_5: 1078041217
+      underground_walls_px_re_96: 478055519
+      underground_walls_px_re_4: -2030699919
+      underground_walls_px_re_15: 211910900
+      underground_walls_px_re_105: 1296641614
+      underground_walls_px_re_43: 401996895
+      underground_walls_px_re_46: 1938984111
+      underground_walls_px_re_45: 1342457216
+      underground_walls_px_re_44: 2058645958
+      underground_walls_px_re_74: 283388420
+      underground_walls_px_re_87: -155234091
+      underground_walls_px_re_49: 1003510678
+      underground_walls_px_re_42: -1041549360
+      underground_walls_px_re_18: 855087804
+      underground_walls_px_re_53: -1756646829
+      underground_walls_px_re_30: 1129938766
+      underground_walls_px_re_95: -68988935
+      underground_walls_px_re_6: 1245759478
+      underground_walls_px_re_76: 1798511351
+      underground_walls_px_re_103: 975882134
+      underground_walls_px_re_97: -654854802
+      underground_walls_px_re_55: -1453597763
+      underground_walls_px_re_7: 751019670
+      underground_walls_px_re_52: 1268855810
+      underground_walls_px_re_85: -1462756231
+      underground_walls_px_re_1: -1549825326
+      underground_walls_px_re_61: -840756808
+      underground_walls_px_re_64: -1201695182
+      underground_walls_px_re_12: -421282715
+      underground_walls_px_re_41: 133549558
+      underground_walls_px_re_35: 1636324246
+      underground_walls_px_re_80: 482446851
+      underground_walls_px_re_47: 1911995437
+      underground_walls_px_re_94: -1594294191
+      underground_walls_px_re_33: -963522559
+      underground_walls_px_re_78: 333942708
+      underground_walls_px_re_77: -877964138
+      underground_walls_px_re_14: -768451488
+      underground_walls_px_re_3: -1922603139
+      underground_walls_px_re_10: -1235975681
+      underground_walls_px_re_20: 1770449440
+      underground_walls_px_re_16: -1607652947
+      underground_walls_px_re_88: 2126640727
+      underground_walls_px_re_51: 1560813829
+      underground_walls_px_re_101: -1196201182
+      underground_walls_px_re_70: -1190368552
+      underground_walls_px_re_11: -1308002905
+      underground_walls_px_re_93: 2133039563
+      underground_walls_px_re_91: -683656554
+      underground_walls_px_re_32: 1621986391
+      underground_walls_px_re_17: 272886289
+      underground_walls_px_re_71: -1355947504
+      underground_walls_px_re_9: 2024758709
+      underground_walls_px_re_2: -1200958276
+      underground_walls_px_re_66: 1244640687
+      underground_walls_px_re_57: -895742259
+      underground_walls_px_re_21: 1079873272
+      underground_walls_px_re_84: -393031956
+      underground_walls_px_re_106: -404219100
+      underground_walls_px_re_25: 760678393
+      underground_walls_px_re_56: 1164821579
+      underground_walls_px_re_90: -1246324356
+      underground_walls_px_re_28: -1904719564
+      underground_walls_px_re_39: -1824861852
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

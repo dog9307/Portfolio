@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5042147533547352367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5042147533547352369}
+  - component: {fileID: 5042147533547352366}
+  m_Layer: 0
+  m_Name: TowerItemRewardManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5042147533547352369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5042147533547352367}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5042147533547352366
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5042147533547352367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb0c4c27eeafd764c8b2c53a62151a34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _itemPrefabs:
+  - {fileID: 5154290590962328320, guid: 3cbb5503f16dfde498df4707a7d1fd01, type: 3}
+  - {fileID: 6881217720080184495, guid: c333ad7a44275804d891a725e0950f87, type: 3}
+  - {fileID: 644034449644853086, guid: 8b8e345e10128c442a28d7f8d7fc2fe1, type: 3}
+  - {fileID: 5353127540892246437, guid: 43f727ab088a85641a63e538d669fdfd, type: 3}
+  - {fileID: 4603198767795894299, guid: bee0c16d1dd66354496b1893c1833485, type: 3}
+  - {fileID: 8662944407142999047, guid: dc53aa5c14ede474daa71fb8c4df0e90, type: 3}
+  - {fileID: 3580404790838348504, guid: c9dc427da9bc23f41be267354da83b69, type: 3}
+  _rewardEffect: {fileID: 4358056752212242545, guid: c6181eac4f0a4564f9e57772dc06bc24,
+    type: 3}
