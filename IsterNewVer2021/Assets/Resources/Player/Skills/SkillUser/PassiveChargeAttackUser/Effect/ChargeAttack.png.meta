@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 1424731759be91245998b27e374d684f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2626551834034643411
+    second: ChargeAttack_0
+  - first:
+      213: 1734268742621067431
+    second: ChargeAttack_1
+  - first:
+      213: -4299690552939832176
+    second: ChargeAttack_2
+  - first:
+      213: 5733135548306621146
+    second: ChargeAttack_3
+  - first:
+      213: -7896325763677779895
+    second: ChargeAttack_4
+  - first:
+      213: 6304930329753930862
+    second: ChargeAttack_5
+  - first:
+      213: 517893915039682923
+    second: ChargeAttack_6
+  - first:
+      213: 8863969989160676953
+    second: ChargeAttack_7
+  - first:
+      213: 1613760092247330504
+    second: ChargeAttack_8
+  - first:
+      213: -8105888973482501249
+    second: ChargeAttack_9
+  - first:
+      213: 7486235184381981566
+    second: ChargeAttack_10
+  - first:
+      213: 5414815093442368195
+    second: ChargeAttack_11
+  - first:
+      213: 8633573218862166484
+    second: ChargeAttack_12
+  - first:
+      213: -8765144874833136265
+    second: ChargeAttack_13
+  - first:
+      213: -1621926499174140919
+    second: ChargeAttack_14
+  - first:
+      213: 3446098597627592997
+    second: ChargeAttack_15
+  - first:
+      213: -2782135815543688170
+    second: ChargeAttack_16
+  - first:
+      213: -4913340296341782511
+    second: ChargeAttack_17
+  - first:
+      213: 7925766010708276324
+    second: ChargeAttack_18
+  - first:
+      213: -2446272966502448230
+    second: ChargeAttack_19
+  - first:
+      213: 4909764592244754262
+    second: ChargeAttack_20
+  - first:
+      213: 2618269681429108641
+    second: ChargeAttack_21
+  - first:
+      213: 5070451441378448494
+    second: ChargeAttack_22
+  - first:
+      213: 6822483217793321565
+    second: ChargeAttack_23
+  - first:
+      213: -4200556163907894239
+    second: ChargeAttack_24
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChargeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d129cb1af2637420800000000000000
+      internalID: 2626551834034643411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8fdfc9b3c511810800000000000000
+      internalID: 1734268742621067431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1beb093e6454c0800000000000000
+      internalID: -4299690552939832176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad20bfdd760309f40800000000000000
+      internalID: 5733135548306621146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9488831fd8d9a6290800000000000000
+      internalID: -7896325763677779895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc19edabc9f7750800000000000000
+      internalID: 6304930329753930862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61d64595cdef2700800000000000000
+      internalID: 517893915039682923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e25a7edb5230b70800000000000000
+      internalID: 8863969989160676953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce8a1bf04a356610800000000000000
+      internalID: 1613760092247330504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bd1daece8128f80800000000000000
+      internalID: -8105888973482501249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e737e168c3374e760800000000000000
+      internalID: 7486235184381981566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c25e0973a9452b40800000000000000
+      internalID: 5414815093442368195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1fa94991d90d770800000000000000
+      internalID: 8633573218862166484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753cb21d23fb5680800000000000000
+      internalID: -8765144874833136265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904beec3172cd79e0800000000000000
+      internalID: -1621926499174140919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52180949a6003df20800000000000000
+      internalID: 3446098597627592997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61470a5573ed369d0800000000000000
+      internalID: -2782135815543688170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 5134
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1108fef480f40dbb0800000000000000
+      internalID: -4913340296341782511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b129b13afdfd60800000000000000
+      internalID: 7925766010708276324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a930bf7a2b71d0ed0800000000000000
+      internalID: -2446272966502448230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 6040
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570a8332ecf22440800000000000000
+      internalID: 4909764592244754262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d1cf2766f55420800000000000000
+      internalID: 2618269681429108641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 6644
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64da36b8bcdd5640800000000000000
+      internalID: 5070451441378448494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 6946
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a82aae6545eae50800000000000000
+      internalID: 6822483217793321565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChargeAttack_24
+      rect:
+        serializedVersion: 2
+        x: 7248
+        y: 0
+        width: 302
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244137ac60a4b5c0800000000000000
+      internalID: -4200556163907894239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: b6842ca04ba8e1441934ed82ccc2fa13, type: 3}
+      name: _Emission
+    nameFileIdTable:
+      ChargeAttack_11: 5414815093442368195
+      ChargeAttack_24: -4200556163907894239
+      ChargeAttack_6: 517893915039682923
+      ChargeAttack_16: -2782135815543688170
+      ChargeAttack_0: 2626551834034643411
+      ChargeAttack_19: -2446272966502448230
+      ChargeAttack_12: 8633573218862166484
+      ChargeAttack_10: 7486235184381981566
+      ChargeAttack_22: 5070451441378448494
+      ChargeAttack_14: -1621926499174140919
+      ChargeAttack_9: -8105888973482501249
+      ChargeAttack_21: 2618269681429108641
+      ChargeAttack_4: -7896325763677779895
+      ChargeAttack_23: 6822483217793321565
+      ChargeAttack_2: -4299690552939832176
+      ChargeAttack_20: 4909764592244754262
+      ChargeAttack_13: -8765144874833136265
+      ChargeAttack_1: 1734268742621067431
+      ChargeAttack_17: -4913340296341782511
+      ChargeAttack_3: 5733135548306621146
+      ChargeAttack_5: 6304930329753930862
+      ChargeAttack_15: 3446098597627592997
+      ChargeAttack_7: 8863969989160676953
+      ChargeAttack_8: 1613760092247330504
+      ChargeAttack_18: 7925766010708276324
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

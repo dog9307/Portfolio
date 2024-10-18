@@ -1,0 +1,13 @@
+﻿title: FieldLiatrisDialogueSelection
+tags:
+---
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 전 탑을 찾고 있어요. #line:0c4d03b
+	<<jump FieldLiatrisDialogue_0>>
+-> 이 곳은 왜 이렇게 되었던 거죠? #line:061ee61
+	<<jump FieldLiatrisDialogue_1>>
+-> 앞으로 당신은 어떻게 할거죠? #line:0c71a7a
+	<<jump FieldLiatrisDialogue_2>>
+-> 더 궁금한건 없어요. #line:0e256ce
+	<<jump FieldLiatrisDialogue_3>>
+===

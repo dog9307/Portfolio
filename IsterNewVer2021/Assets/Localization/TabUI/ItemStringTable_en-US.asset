@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ItemStringTable_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 0a7a65f1bac4744479e3a9a0779ddda5, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 389718228992
+    m_Localized: Prison Key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456139227136
+    m_Localized: A key that opens the iron bars of a closed space under the underground
+      space whose purpose is unknown. It is unknown who used it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 536497897472
+    m_Localized: Ruma's Small Bell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 666206748672
+    m_Localized: desc100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 708695048192
+    m_Localized: The Only God's Symbol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 796439887872
+    m_Localized: The Symbol of someone who became the Only God a long time ago. The
+      Symbol of becoming the Only God was not something that just anyone could obtain.
+      It doesn't seem to have any special power, but it seems to contain some strange
+      power.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 854069624832
+    m_Localized: Blue medal of Quirrell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 975373090816
+    m_Localized: desc102
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

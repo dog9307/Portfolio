@@ -1,0 +1,14 @@
+﻿title: NellTransformation
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Nell normal >>
+<<PortraitChange DialogueSystem Nell normal >>
+넬 : 정말 고마워요, 오푸스님!<br>덕분에 타나님을 묶어둘 힘을 얻을 수 있었어요. #line:0d0772a
+넬 : 이제 깊은 숲의 미로로 가서 여신님의 영혼 조각을 모아오는 일만 남았어요! #line:08a2fad
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 가자. #line:01fedea
+-> 이 정도는 별거 아니지. #line:046c328
+-> 다시 되돌아 가기는 좀 귀찮은데..... #line:057e6b5
+	<<PortraitChange DialogueSystem Nell normal >>
+	넬: 제가 이동시켜 드릴게요!<br>이제 그 정도는 할 수 있어요! #line:0c40ad7
+===

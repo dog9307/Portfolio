@@ -1,0 +1,21 @@
+﻿title: NellField1Done
+tags:
+---
+<<NellFormCheck NellNPCField1 >>
+<<if $isNellButterfly==true>>
+<<InitialPortraitSetting DialogueSystem Opus normal Nell butterfly >>
+<<else >>
+<<InitialPortraitSetting DialogueSystem Opus normal Nell normal >>
+<<endif>>
+<<if $isNellButterfly==true>>
+<<PortraitChange DialogueSystem Nell butterfly >>
+<<else >>
+<<PortraitChange DialogueSystem Nell normal >>
+<<endif>>
+넬 : 드디어 여신님의 영혼 조각을 모두 모았어요!<br>오푸스님 덕분이에요. #line:0e76b43
+넬 : 정말 고마워요! #line:05df111
+넬 : 이제 여신님이 계신 곳으로 가요.<br>오푸스님은 여신님에게 영혼을 건네주기만 하시면 돼요. #line:0ec80ac
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 그래.가자. #line:017c6c1
+-> 나만 믿어. #line:016cc8c
+===

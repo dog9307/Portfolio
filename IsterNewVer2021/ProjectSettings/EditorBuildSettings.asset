@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/IsterAsset/Intro/Intro/IntroScene.unity
+    guid: da58a396ac730cd44bd1276b475b8a8c
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 736b86de768bd0146a74384b75ea6ac6
+  - enabled: 1
+    path: Assets/Scenes/PlayerMoveScene.unity
+    guid: 491eef4ed6211ba42b4ea9fb8f98d87e
+  - enabled: 1
+    path: Assets/Scenes/IngameUiScene.unity
+    guid: 29468de17cd83e54f8f82a756901de8c
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/WorldScene.unity
+    guid: 3ebde569b36875543bc4c3f82d0e4928
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/Area_middle/Area_0.unity
+    guid: 059ac49cc603c6140afc4ef15161120e
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/Area_1/Area_1.unity
+    guid: 52b78a8bd3f9ec843ba570c9e30da332
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/Area_2/Area_2.unity
+    guid: 3b4c28873e1f87d4393dc45231494cb2
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/Area_3/Area_3.unity
+    guid: 60d1620ba833a4648a30e667bfb5b7e2
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/Area_4/Area_4.unity
+    guid: 5ca8103fd8e152e4d90083885f5a1393
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/World/Area_5/Area_5.unity
+    guid: cb3950bcdc6287c4a8fd49c3336e7c24
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/Underground/Area_6.unity
+    guid: aff429b02c90c8e4eb6bd149d0a048fb
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/Underground/UndergroundSceneTutorial.unity
+    guid: 3d17d02d0edcf474b95d9a202295d197
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerScene.unity
+    guid: be6436affff053a4b8ad05e4679dbd29
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerStages/TowerLounge/TowerLobby.unity
+    guid: 05a0bc50b84d2c349bf8cc5ade7b2525
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerStages/TowerF1/TowerF1.unity
+    guid: da0aedec717daff419e2f793364fa383
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerStages/TowerF2/TowerF2.unity
+    guid: 72f1df446b786384ab69516a3af23b07
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerStages/TowerF3/TowerF3.unity
+    guid: e5d54644ad622504091d555ae325d4b9
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerStages/TowerF4/TowerF4.unity
+    guid: e4becdd7dfc14384789f35f489908154
+  - enabled: 1
+    path: Assets/IsterAsset/Maps/TowerScene/TowerStages/TowerF5/TowerF5.unity
+    guid: a5a7d2031feb5914b96d6089ed68641d
+  - enabled: 1
+    path: Assets/Resources/Player/Bullets/PlayerDieCutScene/PlayerDieScene.unity
+    guid: 20abb780e3eb15f469f3d78b48ac9f9b
+  - enabled: 1
+    path: Assets/IsterAsset/Intro/Outro/OutroScene.unity
+    guid: 501ea0a19666d7941b710444a944b2af
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: dffddb79475beec40b28223b3dfb5f73, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 5bc3113eab9f72540b9b3c23af3aab71, type: 2}

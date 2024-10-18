@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 80d6fae00b7ff3a4ba5937e8da839146
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 053561912b1654d80a424bb0696a74ae, type: 3}
+  sourceScripts:
+  - {fileID: 6391573757903218779, guid: c23cd10e3874b8f44a006c5965acfce3, type: 3}
+  - {fileID: 6391573757903218779, guid: edfb07c42a4b7af469b86bcac7919f71, type: 3}
+  - {fileID: 6391573757903218779, guid: 711f236184d8f26419f062bdac892d21, type: 3}
+  - {fileID: 6391573757903218779, guid: 1aac11a3225dfdd439dfdef2201d19ff, type: 3}
+  - {fileID: 6391573757903218779, guid: acbc855094e2e21458515f8880f3bc12, type: 3}
+  - {fileID: 6391573757903218779, guid: b5c04cd819c97134b8d0fd541106541d, type: 3}
+  - {fileID: 6391573757903218779, guid: 8a3354a04c0c01547b75f55390ac1a96, type: 3}
+  - {fileID: 6391573757903218779, guid: 7232130a2dec1c248bf0384ef9094fbe, type: 3}
+  - {fileID: 6391573757903218779, guid: c71b9a17b27304b42b5234c2888964b3, type: 3}
+  - {fileID: 6391573757903218779, guid: 2d376b17d09718041ae48eea464d1deb, type: 3}
+  - {fileID: 6391573757903218779, guid: 95ce110adc1269d4bb72f5ad8d5c70d8, type: 3}
+  - {fileID: 6391573757903218779, guid: 549afd34dae8a1d47a5fa57d478703bb, type: 3}
+  - {fileID: 6391573757903218779, guid: b0de68e3dc3563d419b7316bbf4a1333, type: 3}
+  - {fileID: 6391573757903218779, guid: f111e2c9dc2919147ac9494020f2d11b, type: 3}
+  - {fileID: 6391573757903218779, guid: 4462d7e2266e9b24a9ae1b55fc70c86a, type: 3}
+  - {fileID: 6391573757903218779, guid: c0811c37fadc55942b28e3d1cc6e26b3, type: 3}
+  - {fileID: 6391573757903218779, guid: 3185bdd91aff0f24d9c697a5e07fdc93, type: 3}
+  - {fileID: 6391573757903218779, guid: 079171bde8384934fb4c5b46ecca6a9d, type: 3}
+  - {fileID: 6391573757903218779, guid: a1bb6605d737adb438c5c42bc14d52d9, type: 3}
+  - {fileID: 6391573757903218779, guid: 7a7fb601539718745b24e19055b2a5e1, type: 3}
+  - {fileID: 6391573757903218779, guid: a896c41298d919c4e80d1617da82cd07, type: 3}
+  - {fileID: 6391573757903218779, guid: a7fa2cbf97c6ace41b3acccc735dbd25, type: 3}
+  - {fileID: 6391573757903218779, guid: 6e6aa690a55689d4283277f0606d60ba, type: 3}
+  - {fileID: 6391573757903218779, guid: d3066a03ba2840441b4eec31128e8fb2, type: 3}
+  - {fileID: 6391573757903218779, guid: f1da105c93b77ab4ca65533cafd26733, type: 3}
+  - {fileID: 6391573757903218779, guid: 63ccbe73b6012954093e380a12d1f45a, type: 3}
+  - {fileID: 6391573757903218779, guid: 21e8bcf3b3c3d874aa4567c8b79565b5, type: 3}
+  - {fileID: 6391573757903218779, guid: dc9e9c1dd067f2a41acc133e38641d03, type: 3}
+  - {fileID: 6391573757903218779, guid: 0d6955477179d0940ba37e52dc9a5069, type: 3}
+  - {fileID: 6391573757903218779, guid: 5bd715f407864d24a983daf4f65e659f, type: 3}
+  - {fileID: 6391573757903218779, guid: d3f233b252c0c90488c1d4916959803e, type: 3}
+  - {fileID: 6391573757903218779, guid: 2b87b8f5e41548c4fafca2530e310f58, type: 3}
+  compileErrors: []
+  serializedDeclarations:
+  - name: $isNellButterfly
+    typeName: Bool
+    defaultValueBool: 1
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: 
+    isImplicit: 0
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: 95ce110adc1269d4bb72f5ad8d5c70d8, type: 3}
+  - name: $daloKey
+    typeName: Bool
+    defaultValueBool: 0
+    defaultValueNumber: 0
+    defaultValueString: 
+    description: 
+    isImplicit: 0
+    sourceYarnAsset: {fileID: 6391573757903218779, guid: 21e8bcf3b3c3d874aa4567c8b79565b5, type: 3}
+  defaultLanguage: ko-KR
+  languagesToSourceAssets:
+  - languageID: ko-KR
+    stringsFile: {instanceID: 0}
+    assetsFolder: {instanceID: 0}
+  - languageID: en-US
+    stringsFile: {fileID: 4900000, guid: 2b93a10847ab8c04f83ce2f868bc268a, type: 3}
+    assetsFolder: {instanceID: 0}
+  useAddressableAssets: 0
+  searchAllAssembliesForActions: 1
+  assembliesToSearch: []
+  ListOfFunctions:
+  - Name: Random
+    ReturnType: -> Single
+    Parameters: []
+  - Name: RandomRange
+    ReturnType: -> Single
+    Parameters:
+    - minInclusive
+    - maxInclusive
+  - Name: Dice
+    ReturnType: -> Int32
+    Parameters:
+    - sides
+  - Name: Round
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: RoundPlaces
+    ReturnType: -> Single
+    Parameters:
+    - num
+    - places
+  - Name: Floor
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Ceil
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Inc
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Dec
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: Decimal
+    ReturnType: -> Single
+    Parameters:
+    - num
+  - Name: Int
+    ReturnType: -> Int32
+    Parameters:
+    - num
+  - Name: CoolFunction
+    ReturnType: -> Int32
+    Parameters: []

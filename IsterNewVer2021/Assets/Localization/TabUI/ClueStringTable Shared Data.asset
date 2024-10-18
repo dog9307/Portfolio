@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ClueStringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: ClueStringTable
+  m_TableCollectionNameGuidString: db8934dd394ef0946aabb03a254b00ec
+  m_Entries:
+  - m_Id: 5855526912
+    m_Key: Clue_button_default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451227697152
+    m_Key: Clue_button_darklight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3872924123136
+    m_Key: Clue_text_darklight_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4079887859712
+    m_Key: Clue_text_darklight_100
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4146900254720
+    m_Key: Clue_text_darklight_101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4248230445056
+    m_Key: Clue_text_darklight_102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4293612814336
+    m_Key: Clue_text_darklight_103
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4377515671552
+    m_Key: Clue_text_darklight_104
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4418540158976
+    m_Key: Clue_text_darklight_105
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7895186815571722254
+  references:
+    version: 2
+    RefIds:
+    - rid: 7895186815571722254
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1701138226103

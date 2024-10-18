@@ -1,0 +1,14 @@
+﻿title: NellBeforeTanaMeet
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Nell normal >>
+<<PortraitChange DialogueSystem Nell normal >>
+넬 : 문을 열면 바로 들어가서 타나님을 묶어둘게요.<br>그 사이 오푸스님이 여신님에게 영혼을 건네주면 돼요! #line:0a6d8e4
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 그래.가자. #line:0ee5f09
+-> 혹시나 잘못되면 어떻게 되는거야? #line:0a7f78d
+	<<PortraitChange DialogueSystem Nell normal >>
+	넬 : .....<br>화가 많이 난 타나님에게 죽을거에요..... #line:0c21d9c
+	넬 : 하, 하지만 할 수 있어요!<br>지금의 전 힘없는 막내 나비가 아니에요! #line:063ca37
+	넬 : 제가 타나님과 여신님을 구할거에요.<br>오푸스님과 함께요! #line:055776b
+===

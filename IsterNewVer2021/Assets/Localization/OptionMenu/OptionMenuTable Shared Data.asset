@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: OptionMenuTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: OptionMenuTable
+  m_TableCollectionNameGuidString: 23973b6be6261294e85ccee807f851e6
+  m_Entries:
+  - m_Id: 93352902656
+    m_Key: Option_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 240283566080
+    m_Key: Option_audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381065379840
+    m_Key: Option_graphic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 705415102464
+    m_Key: Option_resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 878644051968
+    m_Key: Option_fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1056767754240
+    m_Key: Option_checker_window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1398477701120
+    m_Key: Option_checker_full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891228729344
+    m_Key: Option_confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2163330007040
+    m_Key: Option_audio_master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2323887964160
+    m_Key: Option_audio_bgm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2455886905344
+    m_Key: Option_audio_sfx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2667757977600
+    m_Key: Option_audio_default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3912635793408
+    m_Key: Option_gototitle
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7895186640575660032
+  references:
+    version: 2
+    RefIds:
+    - rid: 7895186640575660032
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1700468283161

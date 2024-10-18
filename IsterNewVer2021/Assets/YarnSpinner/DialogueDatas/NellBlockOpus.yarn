@@ -1,0 +1,16 @@
+﻿title: NellBlockOpus
+tags:
+---
+<<NellFormCheck NellNPC >>
+<<if $isNellButterfly==true>>
+<<InitialPortraitSetting DialogueSystem Opus normal Nell butterfly >>
+<<else >>
+<<InitialPortraitSetting DialogueSystem Opus normal Nell normal >>
+<<endif>>
+<<if $isNellButterfly==true>>
+<<PortraitChange DialogueSystem Nell butterfly >>
+<<else >>
+<<PortraitChange DialogueSystem Nell normal >>
+<<endif>>
+넬 : 그 쪽은 타나님과 여신님이 있는 곳이에요! #line:0b20b54 
+===

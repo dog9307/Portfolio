@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TutorialPopUpsDesc Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TutorialPopUpsDesc
+  m_TableCollectionNameGuidString: 471dd5e71fc2adf49ba573e965bc6b9f
+  m_Entries:
+  - m_Id: 8032370688
+    m_Key: Tuto_Teleport
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1221549375488
+    m_Key: Tuto_move
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1965241417728
+    m_Key: Tuto_interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4930614345728
+    m_Key: Tuto_darklock_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5325424181248
+    m_Key: Tuto_darklight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7851317936128
+    m_Key: Tuto_attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8269867532288
+    m_Key: Tuto_battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8623904538624
+    m_Key: Tuto_dash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9069910048768
+    m_Key: Tuto_tab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9452493488128
+    m_Key: Tuto_active
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9728227033088
+    m_Key: Tuto_second_active
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10040371331072
+    m_Key: Tuto_second_weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7208626393726976
+    m_Key: Tuto_liatris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8630364629385216
+    m_Key: Tuto_savepoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8637567591530496
+    m_Key: Tuto_darklock_1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7895186350523547649
+  references:
+    version: 2
+    RefIds:
+    - rid: 7895186350523547649
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699361894830

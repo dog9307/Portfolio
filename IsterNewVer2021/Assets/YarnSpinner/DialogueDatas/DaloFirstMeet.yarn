@@ -1,0 +1,37 @@
+﻿title: DaloFirstMeet
+tags:
+---
+<<RelicItemCheck Player $daloKey 101 >>
+<<InitialPortraitSetting DialogueSystem Opus normal Dalo normal >>
+<<PortraitChange DialogueSystem Dalo normal >>
+달로: ...... #line:06c3abd
+달로: ...... #line:0343780
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 당신은 누구죠? #line:05b53a0
+	<<PortraitChange DialogueSystem Dalo normal >>
+	달로 : ...... #line:0037f40
+	달로 : 어떻게 이 곳에 들어온것이지? #line:015a7d9 
+	달로 : 그 놈이 보냈나? #line:01378c1
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 그 놈이 누구죠? #line:03af95
+		<<PortraitChange DialogueSystem Dalo normal >>
+		달로 : .....<br>자네가 누군지 모르는 상태에서 말을 섞을 수는 없네. #line:0dfd7a0
+		달로 : 내 상황이 그리 좋은 것도 아니고 말이야. #line:0954666
+		달로 : 일단 가까이 와 보게.<br>확인 해 볼 것이 있네. #line:0ef8fee 
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> 그러죠. #line:0d72b5f
+			<<PortraitChange DialogueSystem Dalo normal >>
+			달로 : .....<br>누군지는 모르겠지만. #line:02d3a22
+			달로 : 이 정도의 검은 빛이라도 얻을 수 있다는건 행운이지. #line:07035be 
+			달로 : 고맙네. #line:0331b04
+			-> 당신은 누구죠? #line:084ab40
+			<<PortraitChange DialogueSystem Dalo normal >>
+			달로 : 내가 누군지 모르고 이 곳에 들어온 것인가? #line:085921d
+			달로 : 어찌 되었든..... #line:0d7875b
+			달로 : 있으나 없으나한 검은 빛이지만<br>이 정도에도 감사하겠네. #line:04cc564
+	-> 징표를 얻었어요. <<if $daloKey==true>> #line:0872b7e
+		<<PortraitChange DialogueSystem Dalo normal >>
+		달로 : .....<br>이제 아무 것에도 쓸 수 없는 것이로군. #line:0464f61
+		달로 : 어찌되었든 그 것을 가지고 있다는건<br>그 놈과 관련이 있다는 것이지. #line:03244a7
+		달로 : 죽어줘야겠네. #line:0c3caf7
+===

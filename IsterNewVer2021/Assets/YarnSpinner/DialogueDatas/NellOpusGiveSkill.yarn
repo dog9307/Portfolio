@@ -1,0 +1,39 @@
+﻿title: NellOpusGiveSkill
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Nell normal >>
+<<PortraitChange DialogueSystem Nell normal >>
+넬: 오푸스님! #line:08986a5
+넬: 타나님은 우선 안전한 곳에 눕혀놨어요.<br>정신을 차리려면 시간이 조금 걸리겠지만 아마도 괜찮으실거에요. #line:0784784
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 다행이네. #line:00f7c4e
+	<<PortraitChange DialogueSystem Nell normal >>
+	넬: 정말이요!<br>모두 오푸스님 덕분이에요! #line:0cc4f88
+	넬: 정말 고마워요, 오푸스님! #line:0281851
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 탑에 대한 이야기를 들었으니 좋은 거래였다고 생각해. #line:0b22990
+		<<PortraitChange DialogueSystem Nell normal >>
+		넬: 아.<br>여신님은 역시 알고 계셨군요. #line:0366ba8
+		넬: 다행이에요, 정말..... #line:04daca3
+		넬: 그럼 이제 이 곳을 떠나시는거에요? #line:0cf7bdd
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> 응. 궁금한게 아직 너무나도 많아. #line:04a8808
+			<<PortraitChange DialogueSystem Nell normal >>
+			넬: 그렇구나..... #line:0da4116
+			넬: 저, 오푸스님. #line:09a5b2e
+			넬: 여신님 몰래 선물을 하나 드려도 괜찮을까요?<br>이렇게 오푸스님을 보내기에는 너무 죄송해요..... #line:0f3b77a
+			<<PortraitChange DialogueSystem Opus normal true >>
+			-> 선물은 언제나 환영이지 #line:089a2f5
+				<<PortraitChange DialogueSystem Nell normal >>
+				넬: 헤헤. #line:085d198
+				넬: 여신님의 작은 힘이 담긴 각인이에요.<br>원래 여신님을 모시는 나비가 될 사람들 중에 막내 나비에게 주는 건데..... #line:0e1f5ee
+				넬: 이제 받을 사람도 없고 전 달나무의 축복을 받아서 필요 없거든요. #line:02ab35f
+				넬: 오푸스님에게 쓸모가 있을지는 잘 모르겠지만,<br>사용하지 않으시더라도 저희를 기억하는 용도로 써 주세요. #line:0afe077
+				넬: 그럼 저는 여신님께 가 봐야겠어요.<br>다시 한 번, 저를 도와주셔서 정말 고마워요! #line:0cd1cc0
+				넬: 조심히 가세요! #line:00b0fad
+			-> 아냐, 안줘도 돼. #line:0863f9c
+				<<PortraitChange DialogueSystem Nell normal >>
+				넬: 어? #line:0768267
+				넬: 어.....<br>아니, 그러시면..... 안되는데..... #line:0a7bbcd
+				넬: 그냥 써 주세요! #line:0a86c77
+===

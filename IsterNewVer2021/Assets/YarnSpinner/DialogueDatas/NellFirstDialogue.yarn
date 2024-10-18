@@ -1,0 +1,84 @@
+﻿title: NellFirstDialogue
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Nell butterfly >>
+<<PortraitChange DialogueSystem Nell butterfly >>
+넬 : 잠깐만요! #line:088fc15
+넬 : 당신은 나쁜 사람인가요? #line:0f9918d
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 맞아. 난 나쁜 사람이야. #line:09ed2ff
+	<<PortraitChange DialogueSystem Nell butterfly >>
+	넬 : ! #line:045f66b
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 그러니까 따라오지 마.<br>내 안에 잠들어 있는 흑염룡이 깨어날지도 모르니까. #line:0ea8b3c
+		<<PortraitChange DialogueSystem Nell butterfly >>
+		넬 : ..... #line:0c85db0
+		넬 : 그.....<br>위로 올라가시면 안돼요..... #line:0bcbef9
+		넬 : 타나님이 잠들어 있는 여신님을 지키고 있어요.<br>그리고 지금 타나님은 말이 통하는 상황이 아니에요. #line:02b1d9b
+		넬 : 이대로 올라가서 여신님의 정원으로 들어가면 타나님이 공격해올거에요. #line:0d2e303
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> 나의 흑염룡이 깨어나면 그 누구도 나를 막을 수 없어. #line:037802a
+			<<PortraitChange DialogueSystem Nell butterfly >>
+			넬: .....<br>조심하세요..... #line:040a176
+-> 아마도 나쁜 사람은 아닌거 같아. 무슨 일이야? #line:04628c0
+	<<PortraitChange DialogueSystem Nell butterfly >>
+	넬 : 저를 도와줄 수 있는 사람을 기다리고 있었어요.<br>전 여신님의 막내 나비라서 힘이 없어요. #line:0e357f0
+	넬 : 타나님과 여신님을 구하고 싶어요. #line:0195488
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 타나? 여신? 무슨 일이 있었던거야, 이 곳은? #line:03546d8
+		<<PortraitChange DialogueSystem Nell butterfly >>
+		넬 : 이렇게 된지 오랜 시간이 지났어요.<br>여신님이 이상해지고, 흑광병이 퍼지고..... #line:0b22158
+		넬 : 그리고 신 사냥꾼이 와서 이곳, 달빛 정원을 초토화 시켰어요.<br>타나님의 팔이 잘리고, 여신님이 잠들어버리고..... #line:06c58a2
+		넬 : 전 아무것도 할 수 없었어요.<br>깊은 숲속에 숨어있으라고 했거든요.<br>그런데 나오고 보니 이렇게 돼 있었어요. #line:02d7925
+		넬 : 제발 도와주세요..... #line:0e7a792
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> 내가 뭘 도와주면 되는데? #line:0c0f4f0
+			<<PortraitChange DialogueSystem Nell butterfly >>
+			넬 : 흑광병에 걸리면 새로운 나쁜 자아가 생겨나요. #line:0de18f5
+			넬 : 새로 등장한 나쁜 여신님이 원래 여신님의 영혼을 세 조각으로 나눠서 깊은 숲의 미로에 숨겨놨어요.<br>우리는 나쁜 여신님을 따를 수 밖에 없었어요..... #line:0daa2d6
+			넬 : 나쁜 여신님은 신 사냥꾼이 데려가 버려서 지금 여신님의 몸에는 아무것도 존재하지 않아요.<br>우선 여신님의 영혼을 찾아야해요. #line:0f013d8
+			넬 : 오른 쪽의 깊은 숲 미로 어딘가에 여신님의 영혼 세 조각이 숨겨져 있어요.<br>이 조각들을 모두 모아서 여신님에게 가져다 주면 돼요. #line:07e4162
+			<<PortraitChange DialogueSystem Opus normal true >>
+			-> 그것만 도와주면 돼 ? #line:0757f40
+				<<PortraitChange DialogueSystem Nell butterfly >>
+				넬 : 지금 타나님이 여신님 앞에서 길을 막고 있어서 여신님에게 접근할 수가 없어요.<br>그래서 타나님을 잠시 봉인할 방법이 필요해요. #line:0605b8f
+				넬 : 왼 쪽의 시련의 협곡으로 가서 달나무의 축복을 제가 받으면 타나님을 잠시 봉인할 수 있을거에요.<br>그 때..... #line:0a86fc6
+				넬 : 아.<br>그런데 제가 뭐라고 부르면 될까요 ? #line:075fbd0
+				<<PortraitChange DialogueSystem Opus normal true >>
+				-> 오푸스라고 불러줘. #line:0d336e5
+					<<PortraitChange DialogueSystem Nell butterfly >>
+					넬 : 네, 오푸스님.<br>제가 타나님을 봉인하고 있을 때 오푸스님께서 여신님께 영혼을 드리면 돼요. #line:00ed82c
+					넬 : 그러면 될 거에요. #line:05924a5
+					<<PortraitChange DialogueSystem Opus normal true >>
+					-> 알았어.내가 도와줄게. #line:0066874
+						<<CutSceneStart HelpTheNellCutScene >>
+					-> 도와주면 뭘 해줄거야 ? #line:0d9f99f
+						<<PortraitChange DialogueSystem Nell butterfly >>
+						넬 : 어...... #line:0f494f7
+						넬 : 제가 해 드릴 수 있는게 뭐가 있을까요......?<br>검은 빛은 저도 많이 갖고있지 않아서..... #line:00c4a50
+						<<PortraitChange DialogueSystem Opus normal true >>
+						-> 난 탑을 찾고 있어. #line:0f5fe61
+							<<PortraitChange DialogueSystem Nell butterfly >>
+							넬 : 탑.....<br>옛날에는 이 곳에도 높은 탑이 있었어요.<br>하지만 옛날에 없어졌구요. #line:038585f
+							넬 : 최후의 도시에 있던 탑은 폐허가 되면서 사라졌다고 들었고..... #line:0e743b7
+							넬 : 음...... #line:085aa82
+							<<PortraitChange DialogueSystem Opus normal true >>
+							-> 너네 여신님은 혹시 알고 있을까 ? #line:06abd53
+								<<PortraitChange DialogueSystem Nell butterfly >>
+								넬 : 맞아요!<br>여신님은 알고 있으실거에요. #line:0c7ec47
+								넬 : 여신님을 구하는걸 도와주시면 여신님께서 알려주실거에요! #line:05a7481
+								<<PortraitChange DialogueSystem Opus normal true >>
+								-> 알겠어. 도와줄게. #line:004a457
+									<<PortraitChange DialogueSystem Nell butterfly >>
+									넬 : 고마워요!<br>정말 고마워요! #line:015453a
+									<<CutSceneStart HelpTheNellCutScene >>
+-> (무시한다.) #line:0468a07
+	<<PortraitChange DialogueSystem Nell butterfly >>
+	넬 : 제발 도와주세요! #line:00026a0
+	넬 : 제발요..... #line:04eecb7
+-> (공격한다.) #line:0aa766f
+	<<PortraitChange DialogueSystem Nell butterfly >>
+	넬 : 갑자기 왜 다가오시는거에요 ? #line:088f4d7
+	넬 : 잠시만요!<br>멈춰 주세요! #line:0d5fb63
+	<<CutSceneStart OpusAttackNellCutScene >>
+===

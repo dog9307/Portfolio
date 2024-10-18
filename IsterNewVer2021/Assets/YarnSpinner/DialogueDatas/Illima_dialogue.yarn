@@ -1,0 +1,55 @@
+﻿title: Illima_dialogue
+tags:
+---
+<<declare $daloKey=false>>
+<<RelicItemCheck Player $daloKey 101 >>
+<<InitialPortraitSetting DialogueSystem Opus normal Illima normal >>
+<<PortraitChange DialogueSystem Illima normal >>
+일리마: .....또 왔군요. #line:0851a44
+<<PortraitChange DialogueSystem Opus normal true >>
+-> ...... #line:0263ce3
+	<<PortraitChange DialogueSystem Illima normal >>
+	일리마: 징표가 없는 자는 이 곳을 지나갈 수 없습니다.<br>돌아가십시오. #line:0297961
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> ..... #line:02c5339
+		<<PortraitChange DialogueSystem Illima normal >>
+		일리마: ......<br>좋습니다.<br>덤비십시오. #line:04c3595
+		<<CutSceneStart IllimaBossBattleStartCutScene >>
+-> 당신은 누구죠? #line:01845fa
+	<<PortraitChange DialogueSystem Illima normal >>
+	일리마: ..... 제 이름은 일리마입니다.<br>당신은? #line:0671fc1
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> ..... 오푸스 #line:0db7744
+		<<PortraitChange DialogueSystem Illima normal >>
+		일리마: 또 알고있는 것이 있나요? #line:067dccd
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> '탑을 올라 나에게 오라' #line:033c54e
+			<<PortraitChange DialogueSystem Illima normal >>
+			일리마: ..... 그렇군요.<br>이해했습니다. #line:086da7a
+			일리마: 강해져야 될 겁니다.<br>그 분을 찾는 것은 쉬운 길이 아닐거에요. #line:05b6612
+			<<PortraitChange DialogueSystem Opus normal true >>
+			-> 어디로 가야하죠? #line:0ddedf5
+				<<PortraitChange DialogueSystem Illima normal >>
+				일리마: 당신은 아직 충분하지 않습니다.<br>검은 빛을 모으십시오.<br>알게 될 겁니다. #line:0057d53
+			-> 뒤에는 뭐가 있나요? #line:071ad0c
+				<<PortraitChange DialogueSystem Illima normal >>
+				일리마: ..... 알려줄 수 없습니다.<br>궁금해 하지도 않았으면 합니다. #line:0cb5703
+				일리마: 더 이상 이야기를 나누는 것은 의미가 없는 것 같군요.<br>돌아가십시오. #line:0ff48ac
+				일리마: 제 역할은 허락받지 못한 자들이 이 곳을 지나가려는 것을 막는 것입니다.<br>이 곳을 지나가려면 저를 쓰러뜨리거나 징표를 가져와야 합니다.<br>돌아가십시오. #line:04446f4
+		-> 아무것도 모르겠어요. #line:0674407
+			<<PortraitChange DialogueSystem Illima normal >>
+			일리마: ..... 알겠습니다. #line:07998e9
+			일리마: 더 이상 이야기를 나누는 것은 의미가 없는 것 같군요.<br>돌아가십시오. #line:05f3678
+			일리마: 제 역할은 허락받지 못한 자들이 이 곳을 지나가려는 것을 막는 것입니다.<br>이 곳을 지나가려면 저를 쓰러뜨리거나 징표를 가져와야 합니다.<br>돌아가십시오. #line:03ccd63
+	-> 라다곤 #line:0c5f5f8
+		<<PortraitChange DialogueSystem Illima normal >>
+		일리마: ..... 황금빛이 어울릴 것 같은 이름이군요. #line:0bf63f3
+		일리마: 정신이 온전치 않은 것 같은데 돌아가서 해야 할 일을 하십시오.<br>…... 검은 빛을 모으면 정신이 돌아올지도 모릅니다. #line:0330acd
+		일리마: 어찌되었든 이 곳은 지나갈 수 없습니다.<br>돌아가십시오. #line:0bfc9a6
+-> (달로의 징표를 보여준다.) <<if $daloKey==true>> #line:0f2c077
+	<<DisposableSignal DialogueSystem >>
+	<<PortraitChange DialogueSystem Illima normal >>
+	일리마: ..... 징표를 가지고 오다니.<br>물어보고 싶은 것은 많지만 징표를 가져온 이상 막고 서 있을 수가 없군요. #line:009a071
+	일리마: 지나가십시오.<br>그리고 조심하십시오. #line:0b66f00
+	일리마: 그의 말을 듣지 않는 것을 추천합니다. #line:02dbd62s
+===

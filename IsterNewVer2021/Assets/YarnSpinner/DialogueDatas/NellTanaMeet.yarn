@@ -1,0 +1,25 @@
+﻿title: NellTanaMeet
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Nell normal Tana normal >>
+<<PortraitChange DialogueSystem Tana normal >>
+타나 : ...... #line:042a08e
+타나 : 리아트리스는.....<br>아무도 건드릴 수 없어. #line:033076a
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 시작하자, 넬! #line:0717890
+-> 그렇다는데? #line:041f098
+	<<PortraitChange DialogueSystem Nell normal true >>
+	넬 : 타나님!정신차리세요!<br>저에요, 넬! #line:0bb3e43
+	넬 : 타나님과 여신님을 구하러 왔어요! #line:0677360
+	<<PortraitChange DialogueSystem Tana normal >>
+	타나 : ......<br>리아트리스를 다시 빼앗길 순 없어...... #line:0710b56
+	타나 : 애초에 그 놈을 만나게 하는게 아니었어..... #line:0ee407c
+	<<PortraitChange DialogueSystem Nell normal true >>
+	넬 : 이미 일어난 일은 어쩔 수 없어요, 타나님.....<br>지금이라도 정신 차리세요! #line:048e779
+	<<PortraitChange DialogueSystem Tana normal >>
+	타나 : ..... 리아트리스에게 다가가는 자는 모두 죽인다. #line:0f14703
+	타나 : 죽어! #line:0925fb8
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 뭐하고 있는거야!<br>얼른 막아! #line:0c263c0
+	-> 말이 아예 안통하는데 계획대로 가자, 넬. #line:0af6058
+===

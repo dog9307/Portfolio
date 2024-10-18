@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ENEMY
+  - BULLET
+  - FxTemporaire
+  - PLAYER
+  - UI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - DontMovable
+  - Enemys
+  - Bullets
+  - PlayerBullet
+  - Ground
+  - PlayerMirage
+  - Room
+  - EnemyUtil
+  - Gumddak
+  - Cameras
+  - Minimap
+  - Familiar
+  - RoomUtil
+  - SoundUtil
+  - GrayCamera
+  - EnemyGhost
+  - WaterReflection
+  - Temp
+  - PlayerGhost
+  - 
+  - 
+  - 
+  - DistortionEffect
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3354102967
+    locked: 0
+  - name: Shadow
+    uniqueID: 2606086919
+    locked: 0
+  - name: Dynamic
+    uniqueID: 3330645991
+    locked: 0
+  - name: Bullet
+    uniqueID: 3501023655
+    locked: 0
+  - name: Effect
+    uniqueID: 282068793
+    locked: 0
+  - name: Foreground
+    uniqueID: 2450041325
+    locked: 0
+  - name: Depth
+    uniqueID: 2383338709
+    locked: 0

@@ -1,0 +1,36 @@
+﻿title: StoneEndingDialogue
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Stone normal >>
+<<PortraitChange DialogueSystem Stone normal >>
+돌멩이 : 흠. #line:0c16774
+돌멩이 : 제게 관심이 아주 많은 것 같군요.<br>혹시 당신도 돌멩이의 삶을 원하나요? #line:0b66198
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 돌멩이의 삶이 뭐죠 ? #line:0b9a21b
+	<<PortraitChange DialogueSystem Stone normal >>
+	돌멩이 : 돌멩이의 삶이란..... #line:0ba30ea
+	돌멩이 : 신경쓸게 아무것도 없는 삶이이에요. #line:03161c3
+	돌멩이 : 나를 필요로하는 이도, 내가 필요로하는 이도 없으며,<br>해야할 것도 없는 삶이에요. #line:020b806
+	돌멩이 : 당신도 무엇인가에 얽매여있는 것 같은데<br>다 떨쳐내고 돌멩이가 되어보는건 어떤가요? #line:09f537d
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 사실 돌멩이의 삶을 사는 것이 제 오랜 꿈이었어요. #line:0a971b1
+		<<PortraitChange DialogueSystem Stone normal >>
+		돌멩이 : 확실히 돌멩이의 삶은 엄청나요. #line:02982d5
+		돌멩이 : 흘러가는 바람을 느끼고, <br>계속 변하는 구름을 바라보고, <br>그저 가만히 있는 삶. #line:094f633
+		돌멩이 : 이 삶을 이해하는 친우를 드디어 만난 것 같아 기쁘기 그지없네요. #line:03315b8
+		돌멩이 : 당신도 돌멩이가 될 수 있도록 도와드릴게요.<br>멋진 돌멩이가 되길 바라요. #line:0b29a5b
+	-> 전 해야 할 일이 있어요. #line:02999ce
+		<<PortraitChange DialogueSystem Stone normal >>
+		돌멩이 : 그렇다면 절 괴롭히지 말고 조용히 지나가주세요. #line:0094001
+		돌멩이 : ..... #line:050729c
+		돌멩이 : 아니에요......<br>돌멩이의 멋짐을 모르는 당신이 불쌍해요. #line:0d9340f
+		돌멩이 : 당신에게 돌멩이의 아름다운 삶을 경험하게 해 줘야겠어요. #line:0924c9a
+		돌멩이 : 돌멩이의 살을 즐겨보세요. #line:0813c22
+-> 사실 돌멩이의 삶을 사는 것이 제 오랜 꿈이었어요. #line:0784e96
+	<<PortraitChange DialogueSystem Stone normal >>
+	돌멩이 : 확실히 돌멩이의 살은 엄청나요. #line:07fa9e3
+	돌멩이 : 흘러가는 바람을 느끼고, <br>나를 필요로하는 이도 없고, <br>해야 할 것도 없는 삶. #line:058730e
+	돌멩이 : 이 삶을 이해하는 친우를 드디어 만난 것 같아 기쁘기 그지없네요. #line:0723a0e
+	돌멩이 : 당신도 돌멩이가 될 수 있도록 도와드릴게요.<br>멋진 돌멩이가 되길 바랄게요. #line:0ac7603
+<<CutSceneStart StoneEndingCutScene >>
+===

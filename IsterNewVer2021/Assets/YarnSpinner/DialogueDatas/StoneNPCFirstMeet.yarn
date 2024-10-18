@@ -1,0 +1,40 @@
+﻿title: StoneNPCFirstMeet
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Stone normal >>
+<<PortraitChange DialogueSystem Stone angry >>
+돌멩이: 악! #line:0bd01f5
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 악! #line:08f65de
+	<<PortraitChange DialogueSystem Stone angry >>
+	돌멩이: 악!!!!!!!! #line:062bb46
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 악!!!!!!!! #line:0f1f4ee
+		<<PortraitChange DialogueSystem Stone normal >>
+		돌멩이: 당신.....<br>익숙한 냄새가 나네요. #line:07f079b
+		돌멩이: 물론 제게 코는 없지만요. #line:04ad181
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> 당신은 누구죠? #line:004b7f6
+			<<PortraitChange DialogueSystem Stone normal >>
+			돌멩이 : 돌멩이입니다. #line:0c891f5
+		-> 어떤 냄새가 나는거죠? #line:08b1017
+			<<PortraitChange DialogueSystem Stone normal >>
+			돌멩이: 아. #line:082760a 
+			돌멩이: 돌멩이는 말을 할 수 없어요. #line:0bb41eb
+	-> 악!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! #line:06fae6c
+		<<PortraitChange DialogueSystem Stone normal >>
+		돌멩이: ..... 쉿. #line:06013cf
+-> ...... #line:0d6c6a6
+	<<PortraitChange DialogueSystem Stone normal >>
+	돌멩이: 제가 평범한 돌멩이가 아니라는 걸 어떻게 알아낸 건가요? #line:0e0b296
+	돌멩이: 꽤나 오랜 시간 잘 숨어있었는데..... #line:0834016
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> .....? #line:0881470
+		<<PortraitChange DialogueSystem Stone normal >>
+		돌멩이: 당신도 평범해 보이지는 않네요. #line:0dea0a3
+		돌멩이: 당신에 대해 모른 척해 줄테니 당신도 절 모른 척해 주세요. #line:01749f9
+	-> 당신은 누구죠? #line:06cbd13
+		<<PortraitChange DialogueSystem Stone normal >>
+		돌멩이: ..... 돌멩이입니다. #line:091b919
+		돌멩이 : 돌멩이는 말을 할 수 없어요. #line:06fd9f1
+===

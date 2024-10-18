@@ -1,0 +1,15 @@
+﻿title: FieldLiatrisOpusDialogue
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Liatris field_normal >>
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 리아트리스..... 여신님? #line:054eae0
+	<<PortraitChange DialogueSystem Liatris field_normal >>
+	리아트리스 : 이름으로 불러도 괜찮아요.<br>당신의 여신이 아니잖아요? #line:0387567
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 리아트리스, 괜찮아요? #line:09549ed
+		<<PortraitChange DialogueSystem Liatris field_normal >>
+		리아트리스 : 걱정해줘서 고마워요.<br>전 괜찮아요.<br>타나가 걱정이죠. #line:028ccb0
+		리아트리스 : 그건 그렇고 궁금한게 많을 것 같은데.....<br>알고 있는 것들은 알려드릴게요. #line:02225f6
+		<<jump FieldLiatrisDialogueSelection>>
+===

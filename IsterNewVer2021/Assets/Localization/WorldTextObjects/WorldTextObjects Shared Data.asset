@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: WorldTextObjects Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: WorldTextObjects
+  m_TableCollectionNameGuidString: 53b392eb182db52418ccdf8fb5755614
+  m_Entries:
+  - m_Id: 74906353664
+    m_Key: Tuto_prisondoor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6541027737616384
+    m_Key: QTEPillar_nodarklight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7540975631351808
+    m_Key: Cutscene_area6_floorappear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7541265977851904
+    m_Key: Cutscene_area6_dooropen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7541884574777344
+    m_Key: Cutscene_area6_illimadie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8634809622740992
+    m_Key: Clue_worldview_darklight_101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8635144516943872
+    m_Key: Clue_worldview_darklight_104
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8635365514821632
+    m_Key: Subtitle_gainclue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8638635092230144
+    m_Key: Tuto_savepoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8639142221332480
+    m_Key: Tuto_nonedarklight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8643984960536576
+    m_Key: Subtitle_area1_gainsoul
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8645292161515520
+    m_Key: TowerBoss_liatris_start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8645416451325952
+    m_Key: TowerBoss_liatris_end
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7895186350523547650
+  references:
+    version: 2
+    RefIds:
+    - rid: 7895186350523547650
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1699362773336

@@ -1,0 +1,25 @@
+﻿title: FieldLiatrisDialogue_0
+tags:
+---
+<<PortraitChange DialogueSystem Liatris field_normal >>
+리아트리스 : 탑.....<br>정확히는 탑에서 당신을 부르는 누군가를 찾는거겠죠? #line:0df6745 
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 그걸 어떻게.....! #line:0eaf393
+	<<PortraitChange DialogueSystem Liatris field_normal >>
+	리아트리스 : 예측이지만.....<br>확실하지 않은 이야기라서 당신에게 모두 이야기 할 수는 없을 것 같아요. #line:0496520
+	리아트리스 : 아마 당신이 찾고 있는 탑은 '사라진 왕의 폐허'의 중앙 공터에 있을거에요. #line:08ff51f
+	<<PortraitChange DialogueSystem Opus normal true >>
+	-> 거기에는 이상한 것만 있던데요? #line:0e5eede
+		<<PortraitChange DialogueSystem Liatris field_normal >>
+		리아트리스 : 그 것을 잘 조사해 보세요.<br>당신이 가려고 하는 탑이 원래 있던 자리가 그 곳이거든요. #line:0bd4623
+		리아트리스 : 물론 제 가정이 맞다는 전제하에 말이에요. #line:0a912b5
+		<<PortraitChange DialogueSystem Opus normal true >>
+		-> 그냥 속 시원하게 말해주면 안돼요? #line:0ad69d2
+			<<PortraitChange DialogueSystem Liatris field_normal >>
+			리아트리스 : 후후..... #line:04a87a1
+			리아트리스 : 오푸스, 지금 이 세상은 무너져내리고 있어요.<br>그 것을 막기 위해 노력하는 사람들이 있구요. #line:0dfbe69
+			리아트리스 : 제 섣부른 발언이 그들의 계획을 망쳐버릴 가능성이 1이라도 있다면..... #line:00c083a
+			리아트리스 : 은인에게 미안한 마음을 갖게 되더라도 말하지 않는 것이 맞다는 생각이 들어요. #line:096a9be
+			리아트리스 : 미안해요. #line:054f9f8
+<<jump FieldLiatrisDialogueSelection>>
+===

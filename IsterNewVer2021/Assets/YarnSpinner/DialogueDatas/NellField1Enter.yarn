@@ -1,0 +1,28 @@
+﻿title: NellField1Enter
+tags:
+---
+<<declare $isNellButterfly=true>>
+<<NellFormCheck NellNPCField1 >>
+<<if $isNellButterfly==true>>
+<<InitialPortraitSetting DialogueSystem Opus normal Nell butterfly >>
+<<else >>
+<<InitialPortraitSetting DialogueSystem Opus normal Nell normal >>
+<<endif>>
+<<if $isNellButterfly==true>>
+<<PortraitChange DialogueSystem Nell butterfly >>
+<<else >>
+<<PortraitChange DialogueSystem Nell normal >>
+<<endif>>
+넬 : 이곳이 깊은 숲의 미로에요. #line:0ed06f8
+넬 : 중간중간 보이는 횃불의 색을 잘 확인하세요.<br>횃불의 색과 같은 색의 벽이 사라져 있을거에요. #line:0fd3b82
+넬 : 횃불을 작동시키면 빨강, 노랑, 파랑 순으로 색이 바뀔거에요.<br>미로 어딘가에 있는 여신님의 영혼 조각 3개를 모으면 돼요! #line:08689ba
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 그래.가자. #line:0ca1a96
+-> 아..... 미로 싫은데..... #line:0e0ffbb
+	<<if $isNellButterfly==true>>
+	<<PortraitChange DialogueSystem Nell butterfly >>
+	<<else >>
+	<<PortraitChange DialogueSystem Nell normal >>
+	<<endif>>
+	넬 : 오푸스님은 할 수 있어요!<br>우리 힘 내봐요! #line:039eede
+===

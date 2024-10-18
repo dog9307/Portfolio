@@ -1,0 +1,21 @@
+﻿title: FieldLiatrisDialogue_1
+tags:
+---
+<<InitialPortraitSetting DialogueSystem Opus normal Liatris field_normal >>
+<<PortraitChange DialogueSystem Liatris field_normal >>
+리아트리스 : 정말이지 긴 이야기에요.<br>그리고 전 영혼이 조각난 상태로 깊은 숲의 미로에 갇혀있었기 때문에 완벽한 사실을 알고있지는 않아요. #line:0114dcf
+리아트리스 : 아마도 타나가 모든 것을 보았겠지만..... #line:06d23a3
+리아트리스 : 타나의 상태를 보니 흑광병이 너무 많이 진행되었어요.<br>스스로 이겨낼 수 있는 친구이지만 저 때문에 그러지 못했던 것 같아요. #line:0deaff2
+리아트리스 : 제가 알고 있는 것만 말 해주자면, #line:02f3a88
+리아트리스 : 제가 흑광병에 걸렸고 새로운 자아가 생겨났다.<br>전 그녀와의 싸움에서 패배하고 영혼이 조각난 채 갇히게 되었다. #line:0b0a928
+리아트리스 : 제 몸을 차지하게 된 그녀는 세상이 무너지고 사람들이 병마와 싸우는 것은 신경쓰지 않고 더 많은 검은 빛을 원했다. #line:0098e09
+리아트리스 : 그러다 결국 그 자......가 와서 제 몸에 있던 그녀의 영혼을 가져가버렸다.<br>타나는 껍데기만 남은 저를 지키고 있었다..... #line:0452557
+리아트리스 : 이렇게 되겠네요. #line:0fa1387
+<<PortraitChange DialogueSystem Opus normal true >>
+-> 그 자는 누구죠 ? #line:06f08ae
+	<<PortraitChange DialogueSystem Liatris field_normal >>
+	리아트리스 : ..... 그는 많은 이름을 가지고 있어요.<br>그 자의 본명을 아는 사람은 아마도 없을 거에요. #line:04f2d65
+	리아트리스 : 신 사냥꾼이라고 불리는 그의 다른 이름은.....<br>최초의 왕이에요. #line:009eb95
+	리아트리스 : 먼 옛날 유일신 달로 아래에서 세상을 다스렸던.....<br>최초이자 최후의 왕이에요. #line:012c937
+<<jump FieldLiatrisDialogueSelection>>
+===
