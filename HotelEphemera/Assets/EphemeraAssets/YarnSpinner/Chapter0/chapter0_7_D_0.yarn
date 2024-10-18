@@ -1,0 +1,74 @@
+﻿title: chapter0_7_D_0
+tags:
+---
+<< AddSavable DialogueSystem Daisey_7_Encounter >>
+<< InitialPortraitSetting DialogueSystem Daisey normal >>
+???: 흠흠흠~
+???: 랄랄라~
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 저...... 안녕하세요?
+<< PortraitChange DialogueSystem Daisey normal >>
+???: 앗!
+???: 저 손님 알아요! 미로가 알려줬어요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 네. 안녕하세요. 매튜......라고 합니다.
+<< PortraitChange DialogueSystem Daisey saddness >>
+???: 아! 제가 먼저 말하려고 했는데!
+???: 우우......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 죄송해요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+???: 흑......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아니, 저, 죄송해요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+???: ......
+???: 전 데이지에요......
+데이지: 미로한테 얘기 들었어요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네...... 좀 괜찮으세요?
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 네...... 손님이 간만이라서 너무 신났었나봐요......
+데이지: 애쉬한테는 비밀로 해주세요...... 또 혼날거에요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네. 믿어주세요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 고마워요......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 그런데 여기는 무슨 일로 오셨어요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 저 매니저님이 오시기 전까지 할게 없어서 호텔 안을 돌아다니고 있었어요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 아! 그럼 제가 구경시켜드릴......
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 수는 없겠네요......
+데이지: 아직 청소해야하는 방이 좀 남았거든요. 죄송해요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 괜찮습니다! 저도 일하시는 분들 방해하고 싶지 않아서요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 방해...... 아닌데......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네! 그렇죠! 죄송합니다!
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: ......헷.
+데이지: 정말로 이름 말고는 기억나는게 없는거에요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네...... 사실 이름도 몰랐었는데 매니저님이 전화로 알려준거에요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 정식 손님이 아니어서 기억 찾기도 못하신다고 들었는데...... 많이 답답하시겠어요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그렇긴 한데, 어쩔 수 없죠. 하하.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 맞아요. 복잡한걸 계속 생각하고 있으면 괜히 힘들어지잖아요.
+데이지: 좋아하는 것들만 보고, 좋아하는 것들을 먹고, 행복한 생각을 하면 정말로 행복해져요!
+데이지: 손님은 어떤걸 좋아하세요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아...... 글쎄요......
+매튜: 제가 뭘 좋아했는지도 기억이 안나네요. 하하.
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 아...... 죄송......해요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아닙니다! 저 다 좋아합니다! 싫어하는게 없어요!
+<< SetNextRoomPortrait RoomRenderer Daisey normal >>
+<< MinimapNPCOpen Daisey >>
+===

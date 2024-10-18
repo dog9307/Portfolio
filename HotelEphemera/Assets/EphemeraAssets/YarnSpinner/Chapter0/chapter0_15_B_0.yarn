@@ -1,0 +1,16 @@
+﻿title: chapter0_15_B_0
+tags:
+---
+<< AddSavable DialogueSystem BlackSilhouetteIan_15_Encounter >>
+<< AddNextDialogue DialogueSystem chapter0_15_B_0_1 >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 여긴 아까 조지 할아버지를 만났던 정류장이야.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 비가 내리고 있는 게 다른 점이네요.
+이안: 이상하게 비를 맞고 있는데 젖지 않아요.
+이안: 아, 저기 검은 실루엣이 있어요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 가 보자.
+<< DialogueCameraAction DialogueSystem RoomWalkWater >>
+<< MinimapNPCOpen BlackSilhouette_Ian >>
+===

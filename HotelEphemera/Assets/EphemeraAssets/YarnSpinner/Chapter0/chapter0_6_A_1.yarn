@@ -1,0 +1,39 @@
+﻿title: chapter0_6_A_1
+tags:
+---
+<< declare $isDaiseyMeet = false >>
+<< SavableCheck DialogueSystem Daisey_7_Encounter $isDaiseyMeet >>
+<< AddSavable DialogueSystem Ash_6_AboutDaisey >>
+<< InitialPortraitSetting DialogueSystem Ash normal >>
+애쉬: ...... <b>데이지</b>는 도대체 뭘 하고 있는거지?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네?
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 아, 아니에요. 혼잣말이에요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 네.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: ...... 혹시 부탁 하나 드려도 될까요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그럼요. 어차피 할 것도 없는 걸요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 감사해요.
+애쉬: 혹시 <b>데이지</b>를 만난 적 있으신가요?
+<< if $isDaiseyMeet == true >>
+    << PortraitChange DialogueSystem Matthew normal >>
+    매튜: 네, 아까 손님 방에서 만났었어요.
+    << PortraitChange DialogueSystem Ash normal >>
+    애쉬: 그럼 얘기가 빠르겠네요.
+<< else >>
+    << PortraitChange DialogueSystem Matthew normal >>
+    매튜: 아니요, 누군지 모르겠어요.
+    << PortraitChange DialogueSystem Ash normal >>
+    애쉬: ...... 룸 메이드 일을 하는 친구에요.
+    애쉬: 해야 할 일을 자주 깜빡하는 친구라서 매번 이런 일이 생기네요.
+<< endif >>
+애쉬: <b>데이지</b>가 가져다 주기로 한 책이 있는데 또 잊어버린 것 같아요. 혹시 <b>데이지</b>에게 가서 책 얘기 좀 해 주실 수 있을까요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네. 제가 가서 얘기 해 줄게요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 감사해요.
+===

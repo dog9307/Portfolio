@@ -1,0 +1,21 @@
+﻿title: chapter0_8_I_2
+tags:
+---
+<< AddSavable DialogueSystem Ian_8_BackToRoom >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 문도 생겨났네.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 신기해요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그러게.
+매튜: 바로 방으로 들어가 볼까?
+매튜: 아니면 조금 쉬다가 우선 호텔을 돌아다녀 볼까?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 음......
+이안: 바로 들어가기는 조금 무서워서......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응.
+매튜: 그럼 호텔을 돌아다녀 보자.
+매튜: 아, 우선은 조금 쉬었다가 말이야.
+<< SetNextRoomPortrait RoomRenderer Ian normal >>
+===

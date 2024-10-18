@@ -1,0 +1,39 @@
+﻿title: chapter0_0_I_0
+tags:
+---
+<< AddSavable DialogueSystem Ian_0_Encounter >>
+<< AddNextDialogue DialogueSystem chapter0_0_I_0_1 >>
+<< InitialPortraitSetting DialogueSystem Ian normal >>
+이안: 나무가 하나 있네요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 내가 여기 들어와도 되는 걸까......?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 괜찮은 것 같은데요.
+이안: 히히.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 하하.
+매튜: 나쁜 짓을 하는 것 같아서 기분이 이상해.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 저도 이상한 기분이에요.
+이안: 아.
+이안: 이제 저 나무한테 다가가면 될 것 같아요.
+이안: 매튜......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 엄마를 만나러 가는 걸로 생각하려구요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 좋은 생각이야.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그렇죠?
+이안: 그리고 아빠......
+이안: 혼자 남겨진 아빠가 걱정이에요.
+이안: 죽을 때에도 아빠 생각을 했다고 했는데,
+이안: 지금도 아빠 생각을 하면서 가네요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아빠는 괜찮을 거야.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그렇겠죠?
+이안: 그렇게 믿고 싶어요.
+<< DialogueCameraAction DialogueSystem JustDelay >>
+===

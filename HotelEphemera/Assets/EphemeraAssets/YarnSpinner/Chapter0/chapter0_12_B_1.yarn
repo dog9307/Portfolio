@@ -1,0 +1,61 @@
+﻿title: chapter0_12_B_1
+tags:
+---
+<< AddSavable DialogueSystem BlackSilhouetteSarah_12_Friendship >>
+<< InitialPortraitSetting DialogueSystem BlackSilhouetteSarah normal >>
+사라: 이안과 나는 소꿉친구야.
+사라: 엄마들끼리 친해.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 오......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 재밌는 친구네.
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: 학교도 같이 들어갔고,
+사라: 어렸을 땐 여기서 같이 놀았었어.
+사라: 가족끼리 피크닉도 주말마다 왔었구.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 어떻게 반응해야 할지 모르겠어요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그러게.
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: 근데 친하진 않아!
+사라: 이안은 맨날 엄마만 찾는단 말이야.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 흠......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 흠......
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: 같이 놀다가 갑자기 엄마 보러 간다고 가버리구.
+사라: 난 좀 더 같이 놀고 싶은데!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네가 잘못한 것 같은데, 이안?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그런거에요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 저런......
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: 그리고 고집도 엄청 쎄!
+사라: 공원에서 만나는 동물들한테 이름 붙여주기 하는데
+사라: 내가 붙이자는 이름은 하나도 오케이 안 해준단 말이야!
+사라: 정말, 내가 어른스러우니까 져주는 거지.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 사라, 너 이안이랑 거의 매일 같이 노는 거야?
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: 매, 매일은 아닌데!?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 오......
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: 요새는 매일은 아니야......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 둘이 친한 것 같은데?
+<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+사라: ......
+사라: 친한 것 같기도 하고......
+사라: 아무튼 짜증나!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 이안, 네가 잘못했네.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+이안: 그런거에요?
+<< SetNextRoomPortrait RoomRenderer BlackSilhouetteSarah normal >>
+===

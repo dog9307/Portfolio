@@ -1,0 +1,18 @@
+﻿title: chapter0_6_I_0
+tags:
+---
+<< AddSavable DialogueSystem Ian_6_Encounter >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 데이지가 어딨는지 모르니까......
+매튜: 테라스에 가보자.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 바깥을 볼 수 있는 거에요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아니.
+매튜: 야외 옥상 테라스이긴 한데 바깥은 제대로 안보이더라.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 오......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 가보자.
+<< SetNextRoomPortrait RoomRenderer Ian normal >>
+===

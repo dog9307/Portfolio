@@ -1,0 +1,28 @@
+﻿title: chapter0_6_A_0_1
+tags:
+---
+<< InitialPortraitSetting DialogueSystem Ash normal >>
+???: 안녕하세요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 안녕하세요......
+<< PortraitChange DialogueSystem Ash normal >>
+???: 여긴 보시다시피 도서관이에요. 전 사서 <b>애쉬</b>구요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 네. 전 매튜...... 에요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: <b>미로</b>에게 얘기 들었어요. <b>매니저 님</b>이 데려오셨다죠?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네...... 왜 인지는 저도 잘 모르겠지만요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: <b>매니저 님</b>이 무슨 생각을 하시는지는 저희도 몰라서 무슨 얘기를 해 드릴 수가 없네요.
+애쉬: 애초에 자주 오시지도 않고.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 언제 오실지는 모르는 건가요?
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 네. 항상 갑자기 나타났다가 갑자기 사라지셔서.
+애쉬: 궁금한 게 있으면 미로에게 물어보세요. 제일 한가한 녀석이니까.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 네. 감사합니다.
+<< DialogueCameraAction DialogueSystem RoomZoomOut >>
+<< SetNextRoomPortrait RoomRenderer Ash normal >>
+===

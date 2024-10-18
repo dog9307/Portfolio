@@ -1,0 +1,22 @@
+﻿title: chapter0_0_I_0_2
+tags:
+---
+<< InitialPortraitSetting DialogueSystem Ian normal >>
+이안: 기억이 돌아오기 시작하나 봐요.
+이안: 머리 속이 출렁거리는 기분이에요.
+<< ItemGain DialogueSystem 11 >>
+이안: 이 목걸이, 매튜 줄게요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 어?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 매튜가 갖고 있어주면 좋을 것 같아요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 내가 가지고 있어도 되는 걸까 이거......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 당연하죠.
+이안: 이제 정말로 가 볼게요.
+이안: 엄마를 보러 간다니 조금 설레요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 이안......
+<< DialogueCameraAction DialogueSystem GoodByeIan >>
+===

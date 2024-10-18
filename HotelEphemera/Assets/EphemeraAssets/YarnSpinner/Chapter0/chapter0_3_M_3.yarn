@@ -1,0 +1,26 @@
+﻿title: chapter0_3_M_3
+tags:
+---
+<< AddSavable DialogueSystem Miro_3_ManagerCall >>
+<< AddNextDialogue DialogueSystem chapter0_3_M_3_1 >>
+<< InitialPortraitSetting DialogueSystem Miro normal >>
+미로: ...... 네.
+미로: ...... 왜요?
+미로: ...... 네.
+미로: ...... 제가요?
+미로: ...... 네.
+미로: ...... 네.
+미로: ...... 하아......
+미로: ...... 아닙니다. 그래서 언제 오시는데요?
+미로: ...... 끊겠습니다.
+미로: 아......
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 저기......
+<< PortraitChange DialogueSystem Miro normal >>
+미로: ...... 가까이 와 보세요.
+<< DialogueCameraAction DialogueSystem RoomWalk >>
+<< ActivateRoom RoomManager 0 >>
+<< ActivateRoom RoomManager 5 >>
+<< ActivateRoom RoomManager 6 >>
+<< ActivateRoom RoomManager 7 >>
+===

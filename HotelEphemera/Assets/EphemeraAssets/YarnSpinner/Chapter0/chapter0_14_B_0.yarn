@@ -1,0 +1,47 @@
+﻿title: chapter0_14_B_0
+tags:
+---
+<< AddSavable DialogueSystem BlackSilhouetteGeorge_14_Encounter >>
+<< InitialPortraitSetting DialogueSystem BlackSilhouetteGeorge normal >>
+검은 실루엣: 자네들은......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 안녕하세요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 안녕하세요.
+<< PortraitChange DialogueSystem BlackSilhouetteGeorge normal >>
+검은 실루엣: 허허,
+검은 실루엣: 난 조지라고 하네.
+조지: 정확히는 조지의 기억이지.
+조지: 이안과의 관계는......
+조지: 가끔 인사하는 동네 할아버지라고 보면 될 것 같네.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 많이 친하셨나요?
+<< PortraitChange DialogueSystem BlackSilhouetteGeorge normal >>
+조지: 이안이 아는 척을 많이 해 줬지.
+조지: 착한 아이야.
+조지: 이 버스 정류장 벤치에 자주 앉아 있는데,
+조지: 등교 할 때나 하교 할 때 보통 봤지.
+조지: 예전에 그 아이가 여기 오려고 길을 건너다 오토바이에 부딪힐뻔한 적이 있었는데,
+조지: 간발의 차로 피해서 크게는 다치지 않은 일이 있었다네.
+조지: 아이 보호가 너무 안돼있어, 이 곳은.
+조지: 쯧쯧.
+조지: 아무튼 그 때 아이 부모에게 연락하고 같이 기다려주면서 아이 부모하고도 알게 되었지.
+조지: 좋은 가족이었어.
+조지: 이후로 아이 아빠, 엄마와 인사도 하고 가끔 이 곳에 앉아 이야기도 하고 그랬다네.
+조지: ...... 그리고 안 좋은 일이 있었지만 그럭저럭 잘 이겨내고 있는 것 같아.
+조지: 인생이란 게 그런 거 아니겠나.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: .......
+<< PortraitChange DialogueSystem BlackSilhouetteGeorge normal >>
+조지: 왜 살아가는지, 어떻게 살아가는지 생각 해 보는 것은 중요한 일이지만,
+조지: '살아가는 것' 자체가 중요하다네.
+조지: 그게 맞아.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 네......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< SetNextRoomPortrait RoomRenderer BlackSilhouetteGeorge normal >>
+<< MinimapNPCOpen BlackSilhouette_George >>
+===

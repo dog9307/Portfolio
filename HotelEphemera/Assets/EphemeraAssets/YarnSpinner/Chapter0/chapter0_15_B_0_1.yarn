@@ -1,0 +1,78 @@
+﻿title: chapter0_15_B_0_1
+tags:
+---
+<< InitialPortraitSetting DialogueSystem Ian normal >>
+이안: 안녕하세요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 안녕하세요.
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 아.
+검은 실루엣: 안녕하세요.
+검은 실루엣: 여기가 마지막 기억이에요.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 비가 내리는 5번 버스 정류장
+검은 실루엣: 오늘은 조지 할아버지도, 다른 누구도 보지 못한 이상한 날이었어요.
+검은 실루엣: 비가 내려서 그런 걸까요?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 당신은......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 아, 전 이안의 기억이에요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: !
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+이안: 여기서 무슨 일이 있었어?
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 음......
+검은 실루엣: 여기서 죽었어요.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 예전에도 비슷한 일이 있었는데 그 땐 조금 다치고 말았거든요.
+검은 실루엣: 그런데 이번에는 피하지 못했어요.
+검은 실루엣: 비가 많이 와서 그랬나 봐요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 이안......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 정말로......
+이안: 정말로 못 피했던 거야?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 이안!
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 네.
+검은 실루엣: 정말로 못 피했어요. 소리도 못 들었고 보이지도 않았었거든요.
+검은 실루엣: 아빠를 생각하고 있었어요.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 얘기를 들었거든요.
+검은 실루엣: 엄마가 몸이 약해진 게 저 때문이었다고.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아냐......
+이안: 아니라고 했어......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 엄마에게 미안하다고 말하고 싶었어요.
+검은 실루엣: 아빠에게도......
+검은 실루엣: 내가 없었다면 아빠는 엄마랑 계속 행복하게 살 수 있었을텐데.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아니야.
+이안: 아니야......
+<< PortraitChange DialogueSystem Ian silhouette >>
+검은 실루엣: 아빠가 걱정이에요.
+검은 실루엣: 아빠가 너무 힘들어하지 않으면 좋겠어요.
+검은 실루엣: ......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< SetNextRoomPortrait RoomRenderer Ian silhouette >>
+<< DialogueCameraAction DialogueSystem RoomZoomOut >>
+===

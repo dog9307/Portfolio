@@ -1,0 +1,57 @@
+﻿title: chapter0_8_I_6
+tags:
+---
+<< AddSavable DialogueSystem Ian_8_Final >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 이안......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아직 기억이 돌아오지는 않네요.
+이안: 그렇지만 어떤 인생을 살았는지는 알 것 같아요.
+이안: ......
+이안: 매튜.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 죽는다는 건 굉장히 허무한 건가 봐요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그냥 이렇게 끝이네요.
+이안: 더 뭐가 없었어요.
+이안: 난 죽었구나.
+이안: 아직 실감나지는 않지만 아빠와 엄마......
+이안: 아빠는 내가 죽은 후에 잘 견뎌 냈을까요?
+이안: 아빠가 행복하면 좋겠어요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응, 나도.
+매튜: 네 아빠는 잘 버텨 냈을 거야.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그래도 방을 돌아다니면서 엄마가 어떤 생각을 했었는지,
+이안: 아빠가 어떤 생각을 했었는지 알 수 있었어요.
+이안: 고마워요, 매튜.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 안 좋은 기억을 볼 수 있게 얘기 해 주고 함께 해 줘서 정말 고마워요.
+이안: 매튜가 없었으면 못 했을 거에요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 이안......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아까 얻은 열쇠로 전에 말했던 그랜드 홀을 열어야 되는 거겠죠?
+이안: 그리고 그렇게 호텔을 떠나면......
+이안: 정말로 끝이겠죠?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아마도......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그럼 바로 갈까요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 괜찮겠어?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 여러가지 생각이 많지만......
+이안: 얼른 기억이 돌아와서 아빠, 엄마 얼굴을 제대로 보고 싶어요.
+이안: 가요, 매튜.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응.
+매튜: 가자.
+<< SetNextRoomPortrait RoomRenderer Ian normal >>
+===

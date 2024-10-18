@@ -1,0 +1,20 @@
+﻿title: chapter0_0_I_0_1
+tags:
+---
+<< AddNextDialogue DialogueSystem chapter0_0_I_0_2 >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 아!
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 응?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 처음에 네 방에서 목걸이 줄을 발견했었거든.
+매튜: 미로 씨가 손님에게 줘야 한다고 가져다 달라고 했던 건데
+매튜: 깜빡하고 있었어!
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아......
+이안: 이거,
+이안: 이렇게 되는 거였네요.
+<< DialogueCameraAction DialogueSystem RingNecklace >>
+<< ItemJustLose DialogueSystem 5 >>
+<< ItemJustLose DialogueSystem 10 >>
+===

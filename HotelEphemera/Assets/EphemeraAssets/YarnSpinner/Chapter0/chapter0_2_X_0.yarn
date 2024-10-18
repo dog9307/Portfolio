@@ -1,0 +1,14 @@
+﻿title: chapter0_2_X_0
+tags:
+---
+<< AddSavable DialogueSystem Matthew_2_Encounter >>
+<< AddNextDialogue DialogueSystem chapter0_2_X_0_1 >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+???: 이게 무슨......?
+???: 건물 내부인데 이렇게 많은 꽃잎이 떨어지고......
+???: 바닥에는 쌓인 꽃잎들이 없어......
+???: 현실이 아닌 건 확실한 것 같은데.
+???: 일단 이 복도를 빠져나가 보자.
+???: ......가능한지는 잘 모르겠지만.
+<< DialogueCameraAction DialogueSystem RoomWalk >>
+===

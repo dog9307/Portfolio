@@ -1,0 +1,48 @@
+﻿title: chapter0_7_D_2
+tags:
+---
+<< AddSavable DialogueSystem Daisey_7_AshBook >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 데이지, 혹시 애쉬가......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 애쉬요? 애쉬가 여기 왔나요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 아니요. 애쉬가 부탁한게 있어서요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: !
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 제가 또 뭘 잘못한 건가요?
+데이지: 우우......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 그......
+매튜: 책 얘기를......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 아!
+데이지: 맞아요! 책!
+데이지: 또 깜빡해버렸네요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 안돼!
+데이지: 또 혼날거에요......
+데이지: 미안해요, 애쉬. 다시는 안그럴게요......
+데이지: 분명히 혼날거에요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 저 괜찮으시면 제가 가져다 줄까요?
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: ......괜찮을까요? 애쉬한테 더 혼나는건 아닐까요......?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 어...... 제가 가서 잘 얘기할게요. 데이지가 깜빡한게 아니라 정말 너무 너무 바빠서 도서관에 들릴 시간이 없었다고.
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 애쉬가 믿어줄까요......?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 맡겨주세요. 제가 잘 얘기할게요.
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 그럼 부탁드릴게요......
+<< ItemGain DialogueSystem 1 >>
+데이지: 정말 감사해요
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 감사해요, 손님!
+데이지: 꼭 잘 말해주셔야 돼요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 믿어주세요.
+<< SetNextRoomPortrait RoomRenderer Daisey normal >>
+===

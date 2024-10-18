@@ -1,0 +1,11 @@
+﻿title: chapter0_3_M_0_1
+tags:
+---
+<< InitialPortraitSetting DialogueSystem Miro sleepy >>
+???: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 고양이 귀......? 사람이 아니잖아?
+???: 졸고 있는 것 같은데 일단 말을 걸어보자.
+<< SetNextRoomPortrait RoomRenderer Miro sleepy >>
+<< DialogueCameraAction DialogueSystem RoomZoomOut >>
+===

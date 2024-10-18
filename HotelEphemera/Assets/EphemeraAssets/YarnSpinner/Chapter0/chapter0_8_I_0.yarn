@@ -1,0 +1,57 @@
+﻿title: chapter0_8_I_0
+tags:
+---
+<< AddSavable DialogueSystem Ian_8_Encounter >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 여기가 네 방이야, 이안.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 궁금한 게 많지?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 네......
+이안: 사실은 무서워요.
+이안: 엄마, 아빠를 찾고 싶은데 누군지 기억이 안 난다는 게.
+이안: 그리고 내가 좋아하는 것, 싫어하는 것이 뭔지도 모른다는 게......
+이안: 제가 너무 어려서 그런 건가요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아냐, 나도 마찬가지야.
+매튜: 나도 나이를 먹을 만큼 먹은 것 같은데 엄청나게 무섭다구.
+매튜: 뭘 해야 될 지도 모르겠고, 어떤 생각을 해야 될지도 모르겠어.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 저만 그런 게 아니군요......
+이안: 그래도 아저씨가 있어서 다행인 것 같아요.
+이안: 아까 그 사람은 사람이 아닌거죠?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 나도 잘 모르겠어.
+매튜: 여기는 아주 아주 아주 깊은 꿈 속의 공간이라고 하더라구.
+매튜: 꿈 속의 공간이니까 고양이 귀와 꼬리를 달고 있는 사람이 있는 것도 이상할 건 아니지.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 미로는 원래 고양이였던 걸까요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그럴지도?
+매튜: 호텔 안에 미로씨 말고도 다른 동물 귀와 꼬리를 가진 사람들이 있어.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 우와!
+이안: 어떤 동물들이에요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 토끼랑 다람쥐.
+매튜: 잠겨있는 방이 많아서 다 들어가 보지는 못했는데 아마 더 있을지도 몰라.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 토끼랑 다람쥐랑 고양이......
+이안: 저는 동물을 좋아했었나 봐요.
+이안: 다 봐보고 싶어요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그래, 방에서 조금만 쉬다가 이야기하러 가보자.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 지금 바로 가면 안돼요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그래도 조금은 쉬는 게 좋을 것 같아.
+매튜: 무서운 건 조금 괜찮아 졌어?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 음......
+이안: 조금만 쉬었다 가요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그래.
+<< SetNextRoomPortrait RoomRenderer Ian normal >>
+===

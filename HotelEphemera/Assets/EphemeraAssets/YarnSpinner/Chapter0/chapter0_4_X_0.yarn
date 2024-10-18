@@ -1,0 +1,20 @@
+﻿title: chapter0_4_X_0
+tags:
+---
+<< AddSavable DialogueSystem Matthew_4_Encounter >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+???: 그림들이...... 없는데?
+???: 액자들은 걸려 있는데 그림이 안에 없네. 아니, 뭔가 일렁이는 게 있는데?
+???: ......
+???: 뭔가 있긴 한데 알아 볼 수가 없어.
+???: 이래서는 구경을 할 수가 없겠는데.
+???: ...... 하아.
+???: 뭐가 뭔지 정말 하나도 모르겠네. 언제까지 기다려야 되는지, 무엇을 해야 하는지.
+???: 어? 저게 뭐지?
+<< ItemGain DialogueSystem 2 >>
+???: 머리 핀인가? 이런 게 왜 여기에?
+<< DialogueSFX DialogueSystem PhoneBell >>
+<< PauseTime DialogueSystem 1 >>
+???: 전화? <b>로비</b> 쪽인 것 같은데? 아, <b>매니저 님</b> 전화일까? 가봐야겠어.
+<< RoomClose RoomRenderer >>
+===

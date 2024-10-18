@@ -1,0 +1,31 @@
+﻿title: chapter0_3_M_2
+tags:
+---
+<< AddSavable DialogueSystem Miro_3_AboutHotel >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+???: 이 호텔이 어딘지 알려주실 수 있을까요? 여러모로 현실은 아닌 것 같은데요.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: <b>호텔 에페메라</b>. 우리 호텔 이름이야.
+미로: 이것 저것 부가적인 설명이 붙을 순 있겠지만 누군지도 모르는 당신에게 다 얘기 해 줄 수는 없어.
+미로: 현실이 아닌 건 정답. 현실에 고양이 귀와 꼬리를 달고있는 사람이 있을 리가 없잖아?
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 그렇죠.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 여긴 아주 아주 아주 깊은 꿈 속이야. 지칭하는 여러 단어가 있는 것 같던데 나는 잘 모르겠고.
+미로: 손님을 받는데, 특정 손님들만 받아. 손님의 조건은 <b>매니저 님</b>이 알아서 정해주고.
+미로: <b>매니저 님</b>은 종잡을 수가 없어서 무슨 짓을 벌일지 몰라. 오늘의 무슨 짓은 당신인 것 같고.
+미로: 정식 손님들은 기억을 잃은 채로 호텔에 들어와서 잃어버린 기억을 되찾고, 그랜드 홀로 들어갈 자격을 얻어. 그리고 호텔을, 이 꿈 속을 벗어나.
+<< PortraitChange DialogueSystem Matthew normal >>
+???: ...... 제 기억도 여기서 찾을 수 있을까요?
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 일단 당신은 정식 손님이 아니라서 정식 절차를 밟을 수가 없어.
+미로: 일어났던 방 안에 아무것도 없었지?
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 네.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 음. 일단 아무것도 하지 말고 있어봐. 매니저 님이 뭔가 알려주겠지.
+미로: <b>매니저 님</b>이 직접 오거나 뭔가 연락이 올 때까지 <b>아트 갤러리</b> 같은 곳에 가서 기다리고 있어.
+미로: 나 방해하지 말고.
+<< ActivateRoom RoomManager 4 >>
+<< ActivateRoom RoomManager 9 >>
+===

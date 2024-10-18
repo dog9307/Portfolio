@@ -1,0 +1,15 @@
+﻿title: chapter0_2_X_0_1
+tags:
+---
+<< AddNextDialogue DialogueSystem chapter0_2_X_0_2 >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+???: 내가 지금 꿈을 꾸고 있는 걸까? 머리가 아픈 건 아직 여전한데......
+???: 꽃잎을 잡아 볼까?
+<< ItemGain DialogueSystem 3 >>
+???: ......
+???: ...... 잡을 수 있네? 흩날리는 꽃잎을 잡는 게 어떤 의미가 있었던 것 같은데......
+???: 기억이 안나.
+???: ...... 믿을 수 있는 게 한 개도 없네.
+???: 나조차도 말이야.
+<< DialogueCameraAction DialogueSystem RoomWalk >>
+===

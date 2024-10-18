@@ -1,0 +1,45 @@
+﻿title: chapter0_8_D_0
+tags:
+---
+<< AddSavable DialogueSystem Daisey_8_Encounter >>
+<< InitialPortraitSetting DialogueSystem Daisey normal >>
+데이지: 어, 매튜 씨 여기는 어쩐 일이세요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 미로씨가 맡긴 일이 있어서요.
+매튜: 일하시는데 방해하는 건 아닌가 싶네요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 아니에요!
+데이지: 절대 방해 아니에요!
+데이지: 그런데 어떤 일인가요? 저한테 말해도 됐을 텐데......
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 미로는 제가 못미더운걸까요......?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아니에요!
+매튜: 미로씨가 직접 한다고 했는데 제가 정말 꼭 하고 싶다고 했어요!
+매튜: 미로씨 다리가 불편하기도 하고 제가 한가한 거 아시잖아요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 정말이죠......?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그럼요!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 미로가 방까지 왔다가 다시 돌아가기에는 불편하긴 해요......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 절 못 믿는 게 아니라서 다행이에요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 휴.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 그래서 어떤 일을 하셔야 하나요?
+데이지: 제가 도와드릴게요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 음......
+매튜: 손님의 어떤 물건을 가져와 달라고 했어요.
+매튜: 정확하게 어떤 물건인지는 모르는데 이 방에 있을 거라고 했어요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 흐음......
+데이지: 청소하면서 발견한 건 딱히 없는데......
+데이지: 같이 한 번 찾아볼까요!
+데이지: 청소도 거의 다 끝났거든요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 그래주시면 정말 감사할 것 같습니다.
+<< SetNextRoomPortrait RoomRenderer Daisey normal >>
+===

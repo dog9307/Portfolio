@@ -1,0 +1,79 @@
+﻿title: chapter0_3_M_6
+tags:
+---
+<< AddSavable DialogueSystem Miro_3_AboutOriginCustomer >>
+<< InitialPortraitSetting DialogueSystem Miro normal >>
+미로: ...... 오셨습니까.
+미로: 필요하신 거라도 있으신가요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 아니에요.
+매튜: 이안이 호텔을 구경해보고 싶다고 해서요.
+매튜: ...... 이안, 기억을 되찾는 방법은 알아내셨습니까?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 네, 안내 지도를 찾았어요.
+이안: 방에 들어가면 되는 거 아닐까요?
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 맞습니다.
+미로: 기억을 꼭 되찾으시길 바랍니다.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 네......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 미로씨, 궁금한 게 있는데요.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 네.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 어......
+매튜: 정식 손님은 어떤 사람들인가요?
+<< PortraitChange DialogueSystem Miro normal >>
+미로: ......
+미로: 매니저님이 보낸 사람입니다.
+미로: 원래는 이 꿈에 속하지 않은 사람이지만 말 그대로 손님으로서 호텔에 방문하는 사람들입니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 무슨 말인지 잘 모르겠어요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 나도.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: ......
+미로: 저도 자세한 것은 잘 모릅니다.
+미로: 이안 님은 기억을 되찾으면 그 때 알게 되는 것이 있을 겁니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 음......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 음......
+이안: 잘 모르겠지만 기억을 되찾아야만 궁금한 걸 알 수 있겠네요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 응.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그런데 미로는 고양이에요?
+<< PortraitChange DialogueSystem Miro normal >>
+미로: ......
+미로: 네.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 와!
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 호텔 종업원들은 각자의 이유로 호텔에서 일하고 있습니다.
+미로: 근본적으로는 같은 이유인 걸로 알고 있습니다만......
+미로: 이야기 해 드릴 수는 없을 것 같습니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 곤란한 이야기라면 어쩔 수 없죠.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 감사합니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아니에요.
+매튜: 아, 이안에게 데이지와 애쉬를 소개하고 싶은데 애쉬는 도서관에 있을 것 같고 데이지는 어디에 있는지 아시나요?
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 보통 일을 마쳤을 땐 레스토랑에 있는데 지금은 어디 있는지 잘 모르겠습니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네......
+매튜: 그럼 애쉬를 먼저 보고 데이지는 찾아 봐야겠네요.
+매튜: 고마워요.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 필요한 게 있으시면 로비에서 저에게 말씀 해 주세요.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 고마워요, 미로!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 고마워요!
+<< SetNextRoomPortrait RoomRenderer Miro normal >>
+===

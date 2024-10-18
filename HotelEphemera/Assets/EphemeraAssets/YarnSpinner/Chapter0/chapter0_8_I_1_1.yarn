@@ -1,0 +1,22 @@
+﻿title: chapter0_8_I_1_1
+tags:
+---
+<< InitialPortraitSetting DialogueSystem Ian normal >>
+이안: 뭐가...... 나타났어요.
+<< PortraitChange DialogueSystem Matthew normal >>
+<< ItemGain DialogueSystem 6 >>
+매튜: 지도 같은데?
+매튜: 안내 지도다.
+매튜: 나도 같은 걸 찾았었어.
+매튜: 나 같은 경우에는 호텔 안내 지도였지만.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 제 기억을 되찾는 장소를 알려주는 지도인가 봐요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그런가 봐.
+매튜: 자세히 한 번 봐보자.
+<< SetNextRoomPortrait RoomRenderer Ian normal >>
+<< ActivateRoom RoomManager 10 >>
+<< ActivateRoom RoomManager 11 >>
+<< ActivateRoom RoomManager 12 >>
+<< IanMemoryButtonOpen RoomRenderer >>
+===

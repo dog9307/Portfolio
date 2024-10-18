@@ -1,0 +1,52 @@
+﻿title: chapter0_8_I_4
+tags:
+---
+<< AddSavable DialogueSystem Ian_8_Anxiety >>
+<< InitialPortraitSetting DialogueSystem Ian normal >>
+이안: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 엄마가 건강이 나빠져서 안 좋은 일이 있는 건 아니겠죠?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 괜찮을 거야.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 네......
+이안: 음......
+이안: 그래도 지금까지는 좋은 기억들이 많은 것 같아요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그렇지?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그래서 앞으로 갈 곳들이 걱정돼요.
+이안: 이제 나쁜 일들만 날 기다리고 있는 건 아닐까요?
+이안: 그렇다면 그냥 그 기억들을 잊은 채로 가만히 있으면 안되는 걸까요?
+이안: ...... 무서워요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 무서운 게 당연하다고 생각해.
+매튜: ...... 잠깐 쉴까?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 또 방 문이 2개 생겼어요.
+이안: 무섭고 불안하지만,
+이안: 해야 하는 거겠죠......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 기억이라는 건 선택해서 받아들일 수 있는 게 아니니까.
+매튜: 좋은 기억도, 나쁜 기억도 모두 모여서 자신이 되는 거라고 생각해.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 좋은 것만 가지고 싶은데......
+이안: 안되는 거에요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그러게 말이야......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그만 할까?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아니에요.
+이안: 다음 방으로 가 봐요.
+이안: 어떤 일이 있을 지 모르지만 내 기억들이니까요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그래, 한 번 가 보자.
+<< SetNextRoomPortrait RoomRenderer Ian normal >>
+<< ActivateRoom RoomManager 13 >>
+<< ActivateRoom RoomManager 14 >>
+===

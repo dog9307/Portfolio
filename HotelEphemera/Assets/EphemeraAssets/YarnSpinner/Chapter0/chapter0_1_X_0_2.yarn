@@ -1,0 +1,13 @@
+﻿title: chapter0_1_X_0_2
+tags:
+---
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+<< ItemGain DialogueSystem 0 >>
+???: 호텔...... 방인가? 이건 뭐지?
+???: 호텔 안내 지도? 호텔 방이 맞았네, 여긴. 그래서 이걸로 뭘 할 수 있는거지?
+???: 흠.
+???: 일단 사람을 찾아봐야겠어.
+???: ......위험할 수 있겠지만. 뭐라도 해 봐야 돼, 지금은.
+<< DialogueCameraAction DialogueSystem RoomZoomOut >>
+<< ActivateRoom RoomManager 2 >>
+===

@@ -1,0 +1,10 @@
+﻿title: chapter0_3_M_0
+tags:
+---
+<< AddSavable DialogueSystem LobbyFirstEnter >>
+<< AddNextDialogue DialogueSystem chapter0_3_M_0_1 >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+???: 호텔 로비인 것 같네. 사람은 없나?
+???: 앗, 저기 누군가 있는데?
+<< DialogueCameraAction DialogueSystem RoomWalk >>
+===

@@ -1,0 +1,40 @@
+﻿title: chapter0_3_M_1
+tags:
+---
+<< AddSavable DialogueSystem Miro_3_Encounter >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+???: 저기요. 잠시 괜찮을까요?
+<< PortraitChange DialogueSystem Miro sleepy >>
+???: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 저기요!
+<< PortraitChange DialogueSystem Miro sleepy >>
+???: ......
+<< PortraitChange DialogueSystem Miro normal >>
+???: 음?
+???: 뭐지 당신?
+???: 오늘 오기로 한 손님은 없는데. 당신 누구지?
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 제가 그걸 물어보려고 말을 건 거든요.
+<< PortraitChange DialogueSystem Miro normal >>
+???: 당신이 누군지 모른다고? 어라? 내가 못 본 손님이 있는건가?
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 눈을 떠보니 여기 방이었어요. 그런데 제가 누군지도 기억이 안나고 어떻게 여기 왔는지도 모르겠어서 일단 사람을 찾아서 나왔어요.
+<< PortraitChange DialogueSystem Miro normal >>
+???: <b>매니저 님</b>이 데려온 사람인가? 또 마음대로......
+???: 서류를 다시 봐도 손님 리스트에 당신 같은 사람은 없어. 정식 손님이 아니라는 얘긴데.
+???: 이름 같은 것도 기억이 없는건가?
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 네. 아무것도 기억이 없어요. 두통이 계속......
+<< PortraitChange DialogueSystem Miro normal >>
+???: 일단 내 이름은 <b>미로</b>야. 여기 호텔 직원이고.
+미로: 정식 손님들을 받고 안내하는 일을 해. 근데 넌 정식 손님이 아니잖아. 내 알 바 아니라는 얘기지.
+미로: 그런데 나 몰래 호텔 안에 들어와 있는 걸 보면 또 <b>매니저 님</b>이 이상한 짓을 한 것 같은데.
+미로: 흠.
+미로: 이걸 그냥 쫓아낼 수도 없고......
+미로: <b>매니저 님</b>이 알려줄 때까지 뭐 해줄 수 있는 게 없네.
+<< PortraitChange DialogueSystem Matthew normal >>
+???: 아......
+<< PortraitChange DialogueSystem Miro normal >>
+<< MinimapNPCOpen Miro >>
+===

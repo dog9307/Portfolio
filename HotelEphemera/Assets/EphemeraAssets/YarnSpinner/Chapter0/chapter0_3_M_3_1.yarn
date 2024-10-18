@@ -1,0 +1,23 @@
+﻿title: chapter0_3_M_3_1
+tags:
+---
+<< PortraitChange DialogueSystem Miro normal >>
+미로: <b>매니저 님</b> 전화입니다. 당신은 <b>매니저 님</b>이 데려온 게 맞네요.
+미로: 당신 이름은 <b>매튜</b>라고 하고, 정식 손님은 아니지만 손님으로 대접하라고 합니다.
+미로: ...... 왜 데려 왔는지는 직접 와서 알려준다고 하시는데, 언제 올지는 모르겠습니다. 원래 그런 사람이라서.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: <b>매튜</b>? 뭔가 어색한 느낌인데 제 이름이 <b>매튜</b>라는 거죠?
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 네. 이름 말고는 저도 모릅니다.
+미로: 당신이 호텔에서 무슨 짓을 하던지 막지 말고 도와주라고 하셨습니다.
+미로: <b>매니저 님</b>이 오실 때까지 하고 싶은 것들을 하고 있으시면 됩니다. 필요한 것이나 물어볼 것이 있으면...... 저한테 얘기 해 주세요.
+미로: 다른 종업원들한테도 얘기 해 두겠습니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네...... 감사합니다.
+<< PortraitChange DialogueSystem Miro normal >>
+미로: 해야 할 일이 많아져서...... 일 좀 하겠습니다.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 네. 감사합니다.
+<< SetNextRoomPortrait RoomRenderer Miro normal >>
+<< DialogueCameraAction DialogueSystem RoomZoomOut >>
+===

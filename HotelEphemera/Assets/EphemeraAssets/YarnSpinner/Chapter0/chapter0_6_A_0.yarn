@@ -1,0 +1,11 @@
+﻿title: chapter0_6_A_0
+tags:
+---
+<< AddNextDialogue DialogueSystem chapter0_6_A_0_1 >>
+<< AddSavable DialogueSystem Ash_6_Encounter >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 여긴 도서관인가?
+매튜: 어, 저기에도 사람이 있네.
+<< DialogueCameraAction DialogueSystem RoomWalk >>
+<< MinimapNPCOpen Ash >>
+===

@@ -1,0 +1,83 @@
+﻿title: chapter0_12_B_0
+tags:
+---
+<< declare $isRoom12Entered = false >>
+<< SavableCheck DialogueSystem BlackSilhouetteIanFather_10_Encounter $isRoom10Entered >>
+<< SavableCheck DialogueSystem BlackSilhouetteIanMother_11_Encounter $isRoom11Entered >>
+<< SavableCheck DialogueSystem BlackSilhouetteSarah_12_Encounter $isRoom12Entered >>
+<< AddSavable DialogueSystem BlackSilhouetteSarah_12_Encounter >>
+<< if $isRoom10Entered == false && $isRoom11Entered == false >>
+	<< InitialPortraitSetting DialogueSystem Matthew normal >>
+	매튜: 어......
+	매튜: 괜찮은 것 같지......?
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 네......
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 평범한 호텔 방이 아닌 것 같은데?
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 흐릿해서 잘 안보여요.
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 나도.
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 매튜, 어디 가면 안돼요.
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 응. 믿어줘.
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 네.
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 이봐!
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 앗!
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 앗!
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 왜 놀라고 있는 거야?
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 깜짝 놀랐어요!
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 나도!
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 흐음.
+	검은 실루엣: 놀래키려고 한 건 아니었는데.
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 안녕하세요.
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 안녕하세요.
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 안녕!
+	검은 실루엣: 난 이 때의 기억의 덩어리야.
+	검은 실루엣: 이 때의 이안과 관련된 기억 그 자체지.
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 음......
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 음......
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 어려운 말은 집어치우고 여기가 어딘지, 내가 누구의 기억인지만 알면 돼.
+	검은 실루엣: 여긴 사계 공원이고,
+	사라: 난 이안의 동네 친구, 사라의 기억이야.
+<< else >>
+	<< InitialPortraitSetting DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 안녕!
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 안녕하세요!
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 안녕하세요!
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 뭐야, 놀라지 않네?
+	검은 실루엣: 재미없어.
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 앗......
+	<< PortraitChange DialogueSystem Matthew normal >>
+	매튜: 앗......
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 흥.
+	검은 실루엣: 여기가 어딘지 알겠어?
+	<< PortraitChange DialogueSystem Ian normal >>
+	이안: 모르겠어요.
+	<< PortraitChange DialogueSystem BlackSilhouetteSarah normal >>
+	검은 실루엣: 사계 공원이야.
+	검은 실루엣: 그리고 난,
+	사라: 이안의 동네 친구, 사라의 기억이야.
+<< endif >>
+<< MinimapNPCOpen Blacksilhouette_Sarah >>
+===

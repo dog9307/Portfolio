@@ -1,0 +1,121 @@
+﻿title: chapter0_8_D_1
+tags:
+---
+<< AddSavable DialogueSystem Daisey_8_FindingSomething >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 그런데 어떤 손님이 오시는지 데이지는 알고 있나요?
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 음~
+데이지: 이름은 아직 못 들었는데 어린 아이라고 했어요.
+데이지: 9살 남자아이요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 정말 어린 친구네요.
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 그러니까요. 그렇게 어린 아이가 어째서 손님으로......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 데이지는 손님으로 어떤 사람들이 오는지 알고 있나요?
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 아, 그게......
+데이지: 음......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 미로와 애쉬에게 들은 이야기로는 매니저님이 어떤 조건에 맞는 사람들을 손님으로 보내준다고 들었어요.
+매튜: 그리고 그 손님들은 기억을 잃은 채로 호텔에 들어오고, 기억을 되찾고, 바로 호텔을 나간다구요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 아...... 그, 그렇죠?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 호텔에 들어오는 손님들은 어떤 사람들이죠?
+매튜: 깊은 꿈 속에서 기억을 잃고 되찾는 사람들이라니......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 음......
+데이지: 그게......
+데이지: 저, 저, 저도 잘 모르겠는데요!
+데이지: 손님이 언제 오실 지 모르니까 얼른 물건부터 찾아볼까요?
+데이지: 아, 어떤 게 손님의 물건일까~
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: ......
+데이지: 아, 찾았어요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 네? 정말로요?
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 네!
+데이지: 이 베개 아닐까요!?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: ......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 데이지......
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: ......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 아, 그럼 이 책은......!?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: ......
+매튜: 말하기 곤란하면 그렇다고 말해줘도 괜찮아요, 데이지.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 그렇다기 보단......
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 매튜에게 해도 되는 이야기인지 잘 모르겠어요......
+데이지: 지금 우리 호텔에서 매튜는 특별한 존재니까요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 곤란하게 해서 미안해요.
+매튜: 얘기 안 해줘도 괜찮아요!
+매튜: 미로씨가 기다릴 것 같은데 얼른 물건이나 찾아보죠!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 미안해요......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 애쉬에게 물어보고 괜찮다고 하면 꼭 얘기 해 드릴게요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 그러다가 괜히 애쉬에게 혼나는 거 아니에요?
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 힉!
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 물어보기만 하는 건데...... 혼날까요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 하하하하!
+매튜: 안 물어봐도 괜찮아요.
+매튜: 사실 엄청 궁금한 건 아니었어요.
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: ...... 미안해요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 정말 괜찮아요!
+<< ItemGain DialogueSystem 5 >>
+매튜: 어, 이건 어때요? 목걸이 줄 같은데......
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 어라?
+데이지: 청소하면서 못 봤던 건데 어디서 발견했어요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 테이블 위에 있었는데요?
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 어라?
+데이지: 제가 청소 할 때만 해도 없었던 건데......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 그럼 이게 맞을 것 같은데요?
+매튜: 미로씨가 딱 보면 알아볼 거라고 했었거든요.
+매튜: 갑자기 생겨난 걸 보면 이게 맞는 것 같아요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 금방 찾아서 다행이네요!
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그러게요.
+매튜: 바로 미로씨에게 가져다 줄게요.
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 저......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 저 정말로 괜찮아요.
+<< PortraitChange DialogueSystem Daisey saddness >>
+데이지: 미안해요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 정말 괜찮습니다!
+매튜: 어차피 여기 오래 있을 것 같은데 언젠가 알게 되겠죠!
+매튜: 전 그럼 미로씨에게 바로 가 볼게요!
+<< PortraitChange DialogueSystem Daisey normal >>
+데이지: 아, 네.
+데이지: 저는 마무리만 조금 하고 나갈게요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 알겠습니다.
+매튜: 물건 찾는 거 도와줘서 고마워요, 데이지!
+매튜: 가 볼게요!
+<< SetNextRoomPortrait RoomRenderer Daisey normal >>
+===

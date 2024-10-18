@@ -1,0 +1,72 @@
+﻿title: chapter0_6_A_4
+tags:
+---
+<< declare $isIanAshEncounter = false >>
+<< SavableCheck DialogueSystem Ian_6_Encounter $isIanAshEncounter >>
+<< AddSavable DialogueSystem Ash_6_DontKnowingHappness >>
+<< InitialPortraitSetting DialogueSystem Matthew normal >>
+매튜: 왜 추천하지 않는 거죠?
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 손님이기 때문이에요.
+애쉬: 손님들은 이 꿈에 속해있는 사람들이 아니에요.
+애쉬: 기본적으로 이 곳에서 읽을 수 있는 기억들이 자신의 기억이 아니라는 얘기죠.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 아......
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 그리고......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그리고?
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 읽을 수 없게 해 두고 잊어버린 기억은 그 이유가 있지 않을까요?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 음......
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 잊어버린 것을 되찾는 것은 반드시 해야만 하는 일일까요?
+애쉬: 기억을 되찾고 나가야 하는 손님 앞에서 할 이야기는 아닌 것 같지만......
+애쉬: 때로는 모르는 것이 행복할 때도 있다고 생각해요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 하지만 나에 대해 모르는 게 더 불행한 게 아닐까요?
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 그럴 수도 있겠죠.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 어려운 이야기네요......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 동감이야......
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 세상에 정답이란 건 없으니까요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 흠......
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 흠......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 아, 맞다.
+매튜: 애쉬, 혹시 데이지가 어디 있는지 알아요?
+매튜: 이안에게 소개해 주고 싶은데 어디 있는지 잘 모르겠어서요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: ...... 잘 모르겠네요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그렇군요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: 아마 기다리시면 알아서 나타날 거에요.
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 왠지 그럴 것 같긴 해요.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 그런 거에요?
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그럴걸?
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 오......
+<< PortraitChange DialogueSystem Matthew normal >>
+매튜: 그럼 애쉬, 이런 저런 이야기 고마워요.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 고마워요.
+<< PortraitChange DialogueSystem Ash normal >>
+애쉬: ...... 또 오세요, 이안.
+<< PortraitChange DialogueSystem Ian normal >>
+이안: 네!
+<< SetNextRoomPortrait RoomRenderer Ash normal >>
+<< if $isIanAshEncounter == false >>
+    << AddNextDialogue DialogueSystem chapter0_6_I_0 >>
+    << DialogueCameraAction DialogueSystem JustDelay >>
+<< endif >>
+===
